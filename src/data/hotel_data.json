@@ -1,0 +1,943 @@
+[
+  {
+    "id": 1,
+    "name": "Bryan LLC Hotel",
+    "location": "Lake Sarah, Venezuela",
+    "coordinates": {
+      "lat": -76.1011625,
+      "lng": -34.672962
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 124
+      },
+      {
+        "type": "Deluxe",
+        "price": 211
+      },
+      {
+        "type": "Suite",
+        "price": 352
+      }
+    ],
+    "amenities": [
+      "Gym",
+      "Breakfast",
+      "Spa",
+      "Pool",
+      "WiFi"
+    ],
+    "rating": 3.3,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Parker, Bartlett and Ashley Hotel",
+    "location": "New Andrew, Congo",
+    "coordinates": {
+      "lat": 63.149615,
+      "lng": -138.868029
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 147
+      },
+      {
+        "type": "Deluxe",
+        "price": 192
+      },
+      {
+        "type": "Suite",
+        "price": 306
+      }
+    ],
+    "amenities": [
+      "Beach Access",
+      "Gym",
+      "Restaurant"
+    ],
+    "rating": 3.4,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Patterson, Woods and Kim Hotel",
+    "location": "West Christinaland, Saudi Arabia",
+    "coordinates": {
+      "lat": -31.5104855,
+      "lng": 49.935375
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 148
+      },
+      {
+        "type": "Deluxe",
+        "price": 163
+      },
+      {
+        "type": "Suite",
+        "price": 341
+      }
+    ],
+    "amenities": [
+      "Beach Access",
+      "Pool",
+      "Gym"
+    ],
+    "rating": 5.0,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Burke-Allison Hotel",
+    "location": "New James, Sweden",
+    "coordinates": {
+      "lat": -68.041974,
+      "lng": 115.143647
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 134
+      },
+      {
+        "type": "Deluxe",
+        "price": 194
+      },
+      {
+        "type": "Suite",
+        "price": 228
+      }
+    ],
+    "amenities": [
+      "Bar",
+      "Parking",
+      "Restaurant",
+      "Gym",
+      "WiFi",
+      "Pool"
+    ],
+    "rating": 4.6,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Harper-Alvarado Hotel",
+    "location": "East Andrew, Dominican Republic",
+    "coordinates": {
+      "lat": -31.047202,
+      "lng": -60.63479
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 85
+      },
+      {
+        "type": "Deluxe",
+        "price": 180
+      },
+      {
+        "type": "Suite",
+        "price": 354
+      }
+    ],
+    "amenities": [
+      "Gym",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Pool"
+    ],
+    "rating": 4.3,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Haas, Kennedy and Figueroa Hotel",
+    "location": "Johnsonfort, Saint Vincent and the Grenadines",
+    "coordinates": {
+      "lat": 26.1219135,
+      "lng": -37.587097
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 147
+      },
+      {
+        "type": "Deluxe",
+        "price": 250
+      },
+      {
+        "type": "Suite",
+        "price": 216
+      }
+    ],
+    "amenities": [
+      "WiFi",
+      "Parking",
+      "Beach Access",
+      "Spa"
+    ],
+    "rating": 3.7,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Carpenter-Gonzalez Hotel",
+    "location": "Edwardsview, Jamaica",
+    "coordinates": {
+      "lat": -12.2136775,
+      "lng": 29.643856
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 105
+      },
+      {
+        "type": "Deluxe",
+        "price": 171
+      },
+      {
+        "type": "Suite",
+        "price": 388
+      }
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Spa",
+      "Bar",
+      "Pool"
+    ],
+    "rating": 4.6,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Brown-Campbell Hotel",
+    "location": "Jacquelineside, Australia",
+    "coordinates": {
+      "lat": 8.3039075,
+      "lng": 133.217724
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 122
+      },
+      {
+        "type": "Deluxe",
+        "price": 247
+      },
+      {
+        "type": "Suite",
+        "price": 205
+      }
+    ],
+    "amenities": [
+      "Spa",
+      "Beach Access",
+      "Pool",
+      "Bar"
+    ],
+    "rating": 3.8,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Ware-White Hotel",
+    "location": "Kyleburgh, Saint Lucia",
+    "coordinates": {
+      "lat": -23.9423975,
+      "lng": 92.16291
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 148
+      },
+      {
+        "type": "Deluxe",
+        "price": 214
+      },
+      {
+        "type": "Suite",
+        "price": 267
+      }
+    ],
+    "amenities": [
+      "Beach Access",
+      "Bar",
+      "Spa",
+      "Parking",
+      "Breakfast"
+    ],
+    "rating": 3.4,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Grant PLC Hotel",
+    "location": "Alanfort, Aruba",
+    "coordinates": {
+      "lat": -43.8955555,
+      "lng": 37.42198
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 89
+      },
+      {
+        "type": "Deluxe",
+        "price": 215
+      },
+      {
+        "type": "Suite",
+        "price": 284
+      }
+    ],
+    "amenities": [
+      "Breakfast",
+      "Restaurant",
+      "WiFi",
+      "Beach Access",
+      "Pool",
+      "Gym"
+    ],
+    "rating": 4.9,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Villarreal and Sons Hotel",
+    "location": "South Tylerside, Albania",
+    "coordinates": {
+      "lat": 83.366401,
+      "lng": -63.558868
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 143
+      },
+      {
+        "type": "Deluxe",
+        "price": 150
+      },
+      {
+        "type": "Suite",
+        "price": 396
+      }
+    ],
+    "amenities": [
+      "WiFi",
+      "Bar",
+      "Breakfast",
+      "Beach Access"
+    ],
+    "rating": 3.9,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Murray, Mendoza and Rivera Hotel",
+    "location": "Johnsonton, Greece",
+    "coordinates": {
+      "lat": -26.567708,
+      "lng": -138.807913
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 108
+      },
+      {
+        "type": "Deluxe",
+        "price": 243
+      },
+      {
+        "type": "Suite",
+        "price": 312
+      }
+    ],
+    "amenities": [
+      "Breakfast",
+      "Beach Access",
+      "Spa",
+      "Parking",
+      "Restaurant"
+    ],
+    "rating": 3.2,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Riley LLC Hotel",
+    "location": "Paulburgh, Botswana",
+    "coordinates": {
+      "lat": 71.110649,
+      "lng": 64.512313
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 109
+      },
+      {
+        "type": "Deluxe",
+        "price": 204
+      },
+      {
+        "type": "Suite",
+        "price": 387
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Breakfast",
+      "Restaurant",
+      "Beach Access"
+    ],
+    "rating": 4.7,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 14,
+    "name": "White PLC Hotel",
+    "location": "West Frankfurt, Honduras",
+    "coordinates": {
+      "lat": 50.4990925,
+      "lng": -139.370299
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 92
+      },
+      {
+        "type": "Deluxe",
+        "price": 175
+      },
+      {
+        "type": "Suite",
+        "price": 301
+      }
+    ],
+    "amenities": [
+      "Bar",
+      "Breakfast",
+      "Pool"
+    ],
+    "rating": 4.7,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Holmes LLC Hotel",
+    "location": "East Ricardoton, Burundi",
+    "coordinates": {
+      "lat": 16.327448,
+      "lng": -31.820329
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 114
+      },
+      {
+        "type": "Deluxe",
+        "price": 179
+      },
+      {
+        "type": "Suite",
+        "price": 332
+      }
+    ],
+    "amenities": [
+      "Pool",
+      "Breakfast",
+      "Restaurant",
+      "WiFi",
+      "Gym"
+    ],
+    "rating": 4.5,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Navarro-Bailey Hotel",
+    "location": "Allisonview, Tonga",
+    "coordinates": {
+      "lat": 65.733009,
+      "lng": 160.389644
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 94
+      },
+      {
+        "type": "Deluxe",
+        "price": 170
+      },
+      {
+        "type": "Suite",
+        "price": 347
+      }
+    ],
+    "amenities": [
+      "Restaurant",
+      "Gym",
+      "Spa"
+    ],
+    "rating": 3.6,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Roberts-Stewart Hotel",
+    "location": "West Spencer, Turkmenistan",
+    "coordinates": {
+      "lat": 0.006118,
+      "lng": 157.411876
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 93
+      },
+      {
+        "type": "Deluxe",
+        "price": 178
+      },
+      {
+        "type": "Suite",
+        "price": 363
+      }
+    ],
+    "amenities": [
+      "Bar",
+      "Restaurant",
+      "Spa",
+      "Gym",
+      "Pool"
+    ],
+    "rating": 3.3,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Fischer Ltd Hotel",
+    "location": "West Deborahfort, Belgium",
+    "coordinates": {
+      "lat": -38.2368745,
+      "lng": -173.214293
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 130
+      },
+      {
+        "type": "Deluxe",
+        "price": 211
+      },
+      {
+        "type": "Suite",
+        "price": 290
+      }
+    ],
+    "amenities": [
+      "Gym",
+      "Spa",
+      "Beach Access",
+      "Pool",
+      "WiFi"
+    ],
+    "rating": 3.2,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Proctor-Williams Hotel",
+    "location": "Barbermouth, Iraq",
+    "coordinates": {
+      "lat": 28.2711755,
+      "lng": 1.416579
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 118
+      },
+      {
+        "type": "Deluxe",
+        "price": 195
+      },
+      {
+        "type": "Suite",
+        "price": 387
+      }
+    ],
+    "amenities": [
+      "Gym",
+      "Parking",
+      "Bar",
+      "WiFi"
+    ],
+    "rating": 3.2,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Huber-Nolan Hotel",
+    "location": "Youngside, Tajikistan",
+    "coordinates": {
+      "lat": 77.3823585,
+      "lng": 135.267393
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 101
+      },
+      {
+        "type": "Deluxe",
+        "price": 176
+      },
+      {
+        "type": "Suite",
+        "price": 333
+      }
+    ],
+    "amenities": [
+      "Bar",
+      "Pool",
+      "Parking",
+      "Beach Access",
+      "Spa",
+      "Restaurant"
+    ],
+    "rating": 3.9,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Moore, Hamilton and Jordan Hotel",
+    "location": "Tuckerville, New Caledonia",
+    "coordinates": {
+      "lat": -37.126382,
+      "lng": 133.523033
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 134
+      },
+      {
+        "type": "Deluxe",
+        "price": 237
+      },
+      {
+        "type": "Suite",
+        "price": 384
+      }
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Spa"
+    ],
+    "rating": 4.9,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Rodriguez Ltd Hotel",
+    "location": "Port Katrina, Lesotho",
+    "coordinates": {
+      "lat": 22.818518,
+      "lng": -170.541767
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 124
+      },
+      {
+        "type": "Deluxe",
+        "price": 179
+      },
+      {
+        "type": "Suite",
+        "price": 386
+      }
+    ],
+    "amenities": [
+      "Spa",
+      "WiFi",
+      "Breakfast"
+    ],
+    "rating": 4.7,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Green, Cook and Johnson Hotel",
+    "location": "Tamaraland, Algeria",
+    "coordinates": {
+      "lat": -13.174888,
+      "lng": -77.534711
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 119
+      },
+      {
+        "type": "Deluxe",
+        "price": 201
+      },
+      {
+        "type": "Suite",
+        "price": 338
+      }
+    ],
+    "amenities": [
+      "Bar",
+      "Beach Access",
+      "WiFi",
+      "Gym",
+      "Breakfast"
+    ],
+    "rating": 4.3,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Miller Group Hotel",
+    "location": "Gutierrezville, Puerto Rico",
+    "coordinates": {
+      "lat": 23.953009,
+      "lng": 94.777129
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 113
+      },
+      {
+        "type": "Deluxe",
+        "price": 164
+      },
+      {
+        "type": "Suite",
+        "price": 263
+      }
+    ],
+    "amenities": [
+      "Restaurant",
+      "WiFi",
+      "Bar"
+    ],
+    "rating": 3.6,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Hughes, Chavez and Davis Hotel",
+    "location": "West Jesse, Western Sahara",
+    "coordinates": {
+      "lat": 68.6091855,
+      "lng": 20.294089
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 141
+      },
+      {
+        "type": "Deluxe",
+        "price": 157
+      },
+      {
+        "type": "Suite",
+        "price": 320
+      }
+    ],
+    "amenities": [
+      "Beach Access",
+      "Breakfast",
+      "Spa"
+    ],
+    "rating": 4.4,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Flores, Robinson and Kim Hotel",
+    "location": "Martinezton, Malawi",
+    "coordinates": {
+      "lat": -16.8392285,
+      "lng": -45.204907
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 86
+      },
+      {
+        "type": "Deluxe",
+        "price": 222
+      },
+      {
+        "type": "Suite",
+        "price": 311
+      }
+    ],
+    "amenities": [
+      "Beach Access",
+      "Spa",
+      "Restaurant",
+      "Breakfast",
+      "Gym"
+    ],
+    "rating": 4.2,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Walker LLC Hotel",
+    "location": "Garzaville, Austria",
+    "coordinates": {
+      "lat": 1.3798585,
+      "lng": 143.165122
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 130
+      },
+      {
+        "type": "Deluxe",
+        "price": 222
+      },
+      {
+        "type": "Suite",
+        "price": 357
+      }
+    ],
+    "amenities": [
+      "Gym",
+      "Spa",
+      "Beach Access",
+      "Pool"
+    ],
+    "rating": 3.2,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Harvey-Williams Hotel",
+    "location": "Pollardshire, Eritrea",
+    "coordinates": {
+      "lat": 25.1844155,
+      "lng": -107.811441
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 150
+      },
+      {
+        "type": "Deluxe",
+        "price": 199
+      },
+      {
+        "type": "Suite",
+        "price": 312
+      }
+    ],
+    "amenities": [
+      "WiFi",
+      "Breakfast",
+      "Spa",
+      "Pool"
+    ],
+    "rating": 4.4,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Hudson, Rodriguez and Schmidt Hotel",
+    "location": "West Kayla, Benin",
+    "coordinates": {
+      "lat": -50.5194345,
+      "lng": 88.038435
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 82
+      },
+      {
+        "type": "Deluxe",
+        "price": 193
+      },
+      {
+        "type": "Suite",
+        "price": 314
+      }
+    ],
+    "amenities": [
+      "Bar",
+      "Pool",
+      "Restaurant",
+      "Gym",
+      "WiFi"
+    ],
+    "rating": 4.6,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Miller Inc Hotel",
+    "location": "Port Darren, Paraguay",
+    "coordinates": {
+      "lat": 9.0204015,
+      "lng": 13.430917
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 98
+      },
+      {
+        "type": "Deluxe",
+        "price": 151
+      },
+      {
+        "type": "Suite",
+        "price": 240
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Beach Access",
+      "Gym",
+      "Restaurant",
+      "Breakfast",
+      "WiFi"
+    ],
+    "rating": 3.6,
+    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+  }
+]
