@@ -14,7 +14,7 @@ export default function HomeScreen() {
     <View className="flex-1 items-center justify-center bg-black">
   <FlatList
   data={hotels}
-  keyExtractor={(item)=>item.id}
+  keyExtractor={(item)=>item.id }
   renderItem={({item})=> (
     <TouchableOpacity onPress={()=>navigation.navigate("HotelDetails", {hotel:item})}>
       <Text className='text-white'>{item.name}</Text>
