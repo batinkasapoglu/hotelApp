@@ -9,7 +9,17 @@ export default function AuthListener() {
 
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (user) => {
-      dispatch(setUser(user));
+      if (user) {
+        const simpleUser = {
+          uid: user.uid,
+          email: user.email,
+          displayName: user.displayName,
+          photoURL: user.photoURL,
+        };
+        dispatch(setUser(simpleUser));
+      } else {
+        dispatch(setUser(null));
+      }
     });
     return unsubscribe;
   }, []);

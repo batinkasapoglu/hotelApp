@@ -21,3 +21,14 @@ export interface RoomType {
   price: number
 }
 
+export interface SimpleUser {
+  uid: string;
+  email: string | null;
+  displayName: string | null;
+  photoURL: string | null;
+}
+
+export interface AuthState {
+  user: SimpleUser | null;
+  loading: boolean;
+}
