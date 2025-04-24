@@ -17,8 +17,8 @@ import { db ,auth } from "../../../firebaseConfig";
 
 const formSchema = z
   .object({
-    userName: z.string().min(1, "Adınızı giriniz"),
-    userSurName: z.string().min(1, "Soyadınızı giriniz"),
+    name: z.string().min(1, "Adınızı giriniz"),
+    surName: z.string().min(1, "Soyadınızı giriniz"),
     email: z.string().email("Geçerli bir mail adresi giriniz"),
     password: z.string().min(6, "Şifre en az 6 karakter olmalıdır"),
     confirmPassword: z.string(),
@@ -50,8 +50,8 @@ export default function SignUp() {
       await setDoc(doc(db, "users", user.uid), {
         uid:user.uid,
         email:data.email,
-        userName:data.userName,
-        userSurname:data.userSurName,
+        name:data.name,
+        surName:data.surName,
         createdAt: new Date(),
       });
 
@@ -70,7 +70,7 @@ export default function SignUp() {
 
       <Controller
         control={control}
-        name="userName"
+        name="name"
         render={({ field }) => (
           <TextInput
             placeholder="Adınız"
@@ -80,13 +80,13 @@ export default function SignUp() {
           />
         )}
       />
-      {errors.userName && (
-        <Text style={styles.error}>{errors.userName.message}</Text>
+      {errors.name && (
+        <Text style={styles.error}>{errors.name.message}</Text>
       )}
 
 <Controller
         control={control}
-        name="userSurName"
+        name="surName"
         render={({ field }) => (
           <TextInput
             placeholder="Soyadınızz"
@@ -96,8 +96,8 @@ export default function SignUp() {
           />
         )}
       />
-      {errors.userSurName && (
-        <Text style={styles.error}>{errors.userSurName.message}</Text>
+      {errors.surName && (
+        <Text style={styles.error}>{errors.surName.message}</Text>
       )}
 
       <Controller
