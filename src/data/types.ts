@@ -24,8 +24,10 @@ export interface RoomType {
 export interface SimpleUser {
   uid: string;
   email: string | null;
-  displayName: string | null;
-  photoURL: string | null;
+  name: string | null;
+  surName: string | null;
+  displayName?: string | null;
+  photoURL?: string | null;
 }
 
 export interface AuthState {
