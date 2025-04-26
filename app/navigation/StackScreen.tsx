@@ -25,7 +25,7 @@ export default function StackScreen() {
           <Stack.Screen name="GuestTab" component={BottomTabNavigator} />
         </>
       )}
-      {user && <Stack.Screen name="HotelDetails" component={HotelDetail} />}
+      {user && <Stack.Screen name="HotelDetails"  component={HotelDetail} />}
     </Stack.Navigator>
   );
 }
