@@ -1,9 +1,6 @@
 import React from "react";
 import { View, Text, TouchableOpacity } from "react-native";
 import { useDispatch, useSelector } from "react-redux";
-import { signOut } from "firebase/auth";
-import { auth } from "../../firebaseConfig"; // dizini kendine göre ayarla
-import { setUser } from "../../features/slices/authSlice";
 import { RootState } from "../store";
 
 export default function ProfileHeader() {
