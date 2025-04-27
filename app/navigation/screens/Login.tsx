@@ -1,4 +1,12 @@
-import { View, Text, Button, TextInput, StyleSheet, Alert } from "react-native";
+import {
+  View,
+  Text,
+  Button,
+  TextInput,
+  StyleSheet,
+  Alert,
+  TouchableOpacity,
+} from "react-native";
 import React from "react";
 import { z } from "zod";
 import { Controller, useForm } from "react-hook-form";
@@ -6,6 +14,7 @@ import { useNavigation } from "@react-navigation/native";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
 import app from "../../../firebaseConfig";
+import { CustomButton } from "../../components/CustomButton";
 
 const loginSchema = z.object({
   email: z.string().email("Geçerli bir mail adresi giriniz"),
@@ -29,14 +38,11 @@ export default function Login() {
     try {
       const auth = getAuth(app);
       await signInWithEmailAndPassword(auth, data.email, data.password);
-      Alert.alert("Başarılı", "Giriş başarılı", [
-        { text: "Tamam", },
-      ]);
+      Alert.alert("Başarılı", "Giriş başarılı", [{ text: "Tamam" }]);
     } catch (error: any) {
       Alert.alert("Hata", "E-mail veya şifre hatalı");
     }
   }
-
 
   return (
     <View style={styles.container}>
@@ -84,6 +90,8 @@ export default function Login() {
       />
 
       <Button title="Giriş Yap" onPress={handleSubmit(registerAndLogin)} />
+      <CustomButton text="Don't have an account? Sign-up here!" screen="SignUp"/>
+      <CustomButton text="Home" screen="Home"/>
     </View>
   );
 }

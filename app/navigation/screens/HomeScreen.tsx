@@ -9,7 +9,7 @@ export default function HomeScreen() {
   const navigation = useNavigation();
 
   return (
-    <View className="flex-1 items-center justify-center mt-20">
+    <View className="flex-1 items-center justify-center">
       <ProfileHeader />
       <FlatList
         data={hotels}

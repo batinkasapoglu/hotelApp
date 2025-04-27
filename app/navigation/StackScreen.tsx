@@ -5,6 +5,8 @@ import BottomTabUserNavigator from "./BottomTabUserNavigator";
 import { useDispatch, useSelector } from "react-redux";
 import { RootState } from "../store";
 import HotelDetail from "./screens/HotelDetail";
+import SignUp from "./screens/SignUp";
+import Login from "./screens/Login";
 
 const Stack = createNativeStackNavigator();
 
@@ -25,7 +27,9 @@ export default function StackScreen() {
           <Stack.Screen name="GuestTab" component={BottomTabNavigator} />
         </>
       )}
-      {user && <Stack.Screen name="HotelDetails"  component={HotelDetail} />}
+      <Stack.Screen name="SignUp" component={SignUp} />
+      <Stack.Screen name="Login" component={Login} />
+      {user && <Stack.Screen name="HotelDetails" component={HotelDetail} />}
     </Stack.Navigator>
   );
 }

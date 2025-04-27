@@ -34,3 +34,9 @@ export interface AuthState {
   user: SimpleUser | null;
   loading: boolean;
 }
+
+export interface CustomButtonProps {
+  screen: string;
+  text: string;
+}
+
