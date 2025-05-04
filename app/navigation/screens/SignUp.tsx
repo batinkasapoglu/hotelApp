@@ -153,7 +153,7 @@ export default function SignUp() {
       <TouchableOpacity style={styles.button} onPress={handleSubmit(register)}>
         <Text style={styles.buttonText}>Kayıt Ol</Text>
       </TouchableOpacity>
-      <CustomButton text="Home" screen="Home" />
+      <CustomButton text="Home" page="HomeScreen"/>
     </View>
   );
 }

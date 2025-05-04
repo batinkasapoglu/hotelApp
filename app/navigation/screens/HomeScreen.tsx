@@ -9,17 +9,32 @@ export default function HomeScreen() {
   const navigation = useNavigation();
 
   return (
-    <View className="flex-1 items-center justify-center">
+    <View >
       <ProfileHeader />
-      <FlatList
+      <FlatList 
+      numColumns={2}
         data={hotels}
         renderItem={({ item }) => (
           <TouchableOpacity
+            className="bg-white rounded-2xl shadow-md mb-4 mx-4 flex-1"
             onPress={() => navigation.navigate("HotelDetails", { hotel: item })}
           >
-            <Text className="text-black">{item.name}</Text>
-            <Text className="text-black">{item.location}</Text>
-            <Image source={{ uri: item.thumbnail }} style={{ height: 200 }} />
+            <Image
+              source={{ uri: item.thumbnail }}
+              className="w-full h-48"
+              resizeMode="cover"
+            />
+            <View className="p-4">
+              <Text className="text-lg font-bold text-gray-800">
+                {item.name}
+              </Text>
+              <Text className="text-sm text-gray-500 mt-1">
+                {item.location}
+              </Text>
+              <Text className="text-sm text-yellow-500 mt-2">
+                ⭐ {item.rating.toFixed(1)}
+              </Text>
+            </View>
           </TouchableOpacity>
         )}
       ></FlatList>

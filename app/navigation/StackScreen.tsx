@@ -7,6 +7,7 @@ import { RootState } from "../store";
 import HotelDetail from "./screens/HotelDetail";
 import SignUp from "./screens/SignUp";
 import Login from "./screens/Login";
+import HomeScreen from "./screens/HomeScreen";
 
 const Stack = createNativeStackNavigator();
 
@@ -29,7 +30,7 @@ export default function StackScreen() {
       )}
       <Stack.Screen name="SignUp" component={SignUp} />
       <Stack.Screen name="Login" component={Login} />
-      {user && <Stack.Screen name="HotelDetails" component={HotelDetail} />}
+      <Stack.Screen name="HotelDetails" component={HotelDetail} />
     </Stack.Navigator>
   );
 }

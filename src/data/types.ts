@@ -36,7 +36,7 @@ export interface AuthState {
 }
 
 export interface CustomButtonProps {
-  screen: string;
+  page: string;
   text: string;
 }
 

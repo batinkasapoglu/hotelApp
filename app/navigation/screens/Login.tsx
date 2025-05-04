@@ -90,8 +90,8 @@ export default function Login() {
       />
 
       <Button title="Giriş Yap" onPress={handleSubmit(registerAndLogin)} />
-      <CustomButton text="Don't have an account? Sign-up here!" screen="SignUp"/>
-      <CustomButton text="Home" screen="Home"/>
+      <CustomButton text="Don't have an account? Sign-up here!" page="SignUp"/>
+      <CustomButton text="Home" page="HomeScreen"/>
     </View>
   );
 }
