@@ -28,6 +28,7 @@ export interface SimpleUser {
   surName: string | null;
   displayName?: string | null;
   photoURL?: string | null;
+  reservations?:object | null;
 }
 
 export interface AuthState {

@@ -16,6 +16,7 @@ import { setDoc, doc } from "firebase/firestore";
 import { db, auth } from "../../../firebaseConfig";
 import { CustomButton } from "../../components/CustomButton";
 
+
 const formSchema = z
   .object({
     name: z.string().min(1, "Adınızı giriniz"),
@@ -57,6 +58,7 @@ export default function SignUp() {
         name: data.name,
         surName: data.surName,
         createdAt: new Date(),
+        reservations: [],
       });
 
       Alert.alert("Başarılı", "Kayıt başarılı", [
@@ -153,7 +155,7 @@ export default function SignUp() {
       <TouchableOpacity style={styles.button} onPress={handleSubmit(register)}>
         <Text style={styles.buttonText}>Kayıt Ol</Text>
       </TouchableOpacity>
-      <CustomButton text="Home" page="HomeScreen"/>
+      <CustomButton text="Home" page="HomeScreen" />
     </View>
   );
 }

@@ -1,6 +1,6 @@
 import React from "react";
-import { View, Text, TouchableOpacity } from "react-native";
-import { useDispatch, useSelector } from "react-redux";
+import { View, Text } from "react-native";
+import { useSelector } from "react-redux";
 import { RootState } from "../store";
 
 export default function ProfileHeader() {
