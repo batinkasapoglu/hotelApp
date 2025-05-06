@@ -13,6 +13,7 @@ import MapView, { Marker } from "react-native-maps";
 import { SafeAreaProvider } from "react-native-safe-area-context";
 import { useSelector } from "react-redux";
 import { RootState } from "../../store";
+import DateSelector from "../../components/DateSelector";
 
 export default function HotelDetail({ route }: any) {
   const { hotel } = route.params;
@@ -102,6 +103,7 @@ export default function HotelDetail({ route }: any) {
             }}
           />
         </MapView>
+        <DateSelector buttonText="seç"></DateSelector>
 
         <TouchableOpacity onPress={() => navigation.goBack()}>
           <Text>Go Back</Text>

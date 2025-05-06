@@ -5,6 +5,7 @@ import { signOut } from "firebase/auth";
 import { auth } from "../../../firebaseConfig";
 import { setUser } from "../../../features/slices/authSlice";
 import { RootState } from "../../store";
+import DateSelector from "../../components/DateSelector";
 
 export default function Profile() {
   const dispatch = useDispatch();
@@ -37,6 +38,7 @@ export default function Profile() {
       >
         <Text className="text-white text-xs">Logout</Text>
       </TouchableOpacity>
+     <DateSelector buttonText="Giriş"></DateSelector>
     </View>
   );
 }
