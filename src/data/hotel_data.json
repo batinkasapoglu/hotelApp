@@ -1,43 +1,11 @@
 [
   {
     "id": 1,
-    "name": "Bryan LLC Hotel",
-    "location": "Lake Sarah, Venezuela",
+    "name": "Grand Aliağa Hotel",
+    "location": "İzmir, Turkey",
     "coordinates": {
-      "lat": -76.1011625,
-      "lng": -34.672962
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 124
-      },
-      {
-        "type": "Deluxe",
-        "price": 211
-      },
-      {
-        "type": "Suite",
-        "price": 352
-      }
-    ],
-    "amenities": [
-      "Gym",
-      "Breakfast",
-      "Spa",
-      "Pool",
-      "WiFi"
-    ],
-    "rating": 3.3,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 2,
-    "name": "Parker, Bartlett and Ashley Hotel",
-    "location": "New Andrew, Congo",
-    "coordinates": {
-      "lat": 63.149615,
-      "lng": -138.868029
+      "lat": 38.803951053052955, 
+      "lng": 26.969740119038047
     },
     "room_types": [
       {
@@ -46,58 +14,66 @@
       },
       {
         "type": "Deluxe",
-        "price": 192
+        "price": 208
       },
       {
         "type": "Suite",
-        "price": 306
+        "price": 374
       }
     ],
     "amenities": [
-      "Beach Access",
-      "Gym",
-      "Restaurant"
+      "Restaurant",
+      "WiFi",
+      "Parking",
+      "Pet Friendly",
+      "Breakfast"
     ],
-    "rating": 3.4,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+    "rating": 3.2,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.0,
+    "longitude": 35.3213
   },
   {
-    "id": 3,
-    "name": "Patterson, Woods and Kim Hotel",
-    "location": "West Christinaland, Saudi Arabia",
+    "id": 2,
+    "name": "Grand Adıyaman Hotel",
+    "location": "Adıyaman, Turkey",
     "coordinates": {
-      "lat": -31.5104855,
-      "lng": 49.935375
+      "lat": 42.934193,
+      "lng": 4.650122
     },
     "room_types": [
       {
         "type": "Standard",
-        "price": 148
+        "price": 117
       },
       {
         "type": "Deluxe",
-        "price": 163
+        "price": 177
       },
       {
         "type": "Suite",
-        "price": 341
+        "price": 405
       }
     ],
     "amenities": [
-      "Beach Access",
-      "Pool",
+      "Pet Friendly",
+      "WiFi",
+      "Airport Shuttle",
+      "Bar",
       "Gym"
     ],
-    "rating": 5.0,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+    "rating": 4.8,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.7648,
+    "longitude": 38.2786
   },
   {
-    "id": 4,
-    "name": "Burke-Allison Hotel",
-    "location": "New James, Sweden",
+    "id": 3,
+    "name": "Grand Afyonkarahisar Hotel",
+    "location": "Afyonkarahisar, Turkey",
     "coordinates": {
-      "lat": -68.041974,
-      "lng": 115.143647
+      "lat": -75.975263,
+      "lng": 21.430876
     },
     "room_types": [
       {
@@ -106,503 +82,32 @@
       },
       {
         "type": "Deluxe",
-        "price": 194
+        "price": 172
       },
       {
         "type": "Suite",
-        "price": 228
-      }
-    ],
-    "amenities": [
-      "Bar",
-      "Parking",
-      "Restaurant",
-      "Gym",
-      "WiFi",
-      "Pool"
-    ],
-    "rating": 4.6,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 5,
-    "name": "Harper-Alvarado Hotel",
-    "location": "East Andrew, Dominican Republic",
-    "coordinates": {
-      "lat": -31.047202,
-      "lng": -60.63479
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 85
-      },
-      {
-        "type": "Deluxe",
-        "price": 180
-      },
-      {
-        "type": "Suite",
-        "price": 354
-      }
-    ],
-    "amenities": [
-      "Gym",
-      "Spa",
-      "Bar",
-      "Restaurant",
-      "Pool"
-    ],
-    "rating": 4.3,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 6,
-    "name": "Haas, Kennedy and Figueroa Hotel",
-    "location": "Johnsonfort, Saint Vincent and the Grenadines",
-    "coordinates": {
-      "lat": 26.1219135,
-      "lng": -37.587097
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 147
-      },
-      {
-        "type": "Deluxe",
-        "price": 250
-      },
-      {
-        "type": "Suite",
-        "price": 216
-      }
-    ],
-    "amenities": [
-      "WiFi",
-      "Parking",
-      "Beach Access",
-      "Spa"
-    ],
-    "rating": 3.7,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 7,
-    "name": "Carpenter-Gonzalez Hotel",
-    "location": "Edwardsview, Jamaica",
-    "coordinates": {
-      "lat": -12.2136775,
-      "lng": 29.643856
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 105
-      },
-      {
-        "type": "Deluxe",
-        "price": 171
-      },
-      {
-        "type": "Suite",
-        "price": 388
-      }
-    ],
-    "amenities": [
-      "Breakfast",
-      "Parking",
-      "Spa",
-      "Bar",
-      "Pool"
-    ],
-    "rating": 4.6,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 8,
-    "name": "Brown-Campbell Hotel",
-    "location": "Jacquelineside, Australia",
-    "coordinates": {
-      "lat": 8.3039075,
-      "lng": 133.217724
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 122
-      },
-      {
-        "type": "Deluxe",
-        "price": 247
-      },
-      {
-        "type": "Suite",
-        "price": 205
-      }
-    ],
-    "amenities": [
-      "Spa",
-      "Beach Access",
-      "Pool",
-      "Bar"
-    ],
-    "rating": 3.8,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 9,
-    "name": "Ware-White Hotel",
-    "location": "Kyleburgh, Saint Lucia",
-    "coordinates": {
-      "lat": -23.9423975,
-      "lng": 92.16291
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 148
-      },
-      {
-        "type": "Deluxe",
-        "price": 214
-      },
-      {
-        "type": "Suite",
-        "price": 267
-      }
-    ],
-    "amenities": [
-      "Beach Access",
-      "Bar",
-      "Spa",
-      "Parking",
-      "Breakfast"
-    ],
-    "rating": 3.4,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 10,
-    "name": "Grant PLC Hotel",
-    "location": "Alanfort, Aruba",
-    "coordinates": {
-      "lat": -43.8955555,
-      "lng": 37.42198
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 89
-      },
-      {
-        "type": "Deluxe",
-        "price": 215
-      },
-      {
-        "type": "Suite",
-        "price": 284
-      }
-    ],
-    "amenities": [
-      "Breakfast",
-      "Restaurant",
-      "WiFi",
-      "Beach Access",
-      "Pool",
-      "Gym"
-    ],
-    "rating": 4.9,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 11,
-    "name": "Villarreal and Sons Hotel",
-    "location": "South Tylerside, Albania",
-    "coordinates": {
-      "lat": 83.366401,
-      "lng": -63.558868
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 143
-      },
-      {
-        "type": "Deluxe",
-        "price": 150
-      },
-      {
-        "type": "Suite",
-        "price": 396
-      }
-    ],
-    "amenities": [
-      "WiFi",
-      "Bar",
-      "Breakfast",
-      "Beach Access"
-    ],
-    "rating": 3.9,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 12,
-    "name": "Murray, Mendoza and Rivera Hotel",
-    "location": "Johnsonton, Greece",
-    "coordinates": {
-      "lat": -26.567708,
-      "lng": -138.807913
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 108
-      },
-      {
-        "type": "Deluxe",
-        "price": 243
-      },
-      {
-        "type": "Suite",
-        "price": 312
-      }
-    ],
-    "amenities": [
-      "Breakfast",
-      "Beach Access",
-      "Spa",
-      "Parking",
-      "Restaurant"
-    ],
-    "rating": 3.2,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 13,
-    "name": "Riley LLC Hotel",
-    "location": "Paulburgh, Botswana",
-    "coordinates": {
-      "lat": 71.110649,
-      "lng": 64.512313
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 109
-      },
-      {
-        "type": "Deluxe",
-        "price": 204
-      },
-      {
-        "type": "Suite",
-        "price": 387
-      }
-    ],
-    "amenities": [
-      "Parking",
-      "Breakfast",
-      "Restaurant",
-      "Beach Access"
-    ],
-    "rating": 4.7,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 14,
-    "name": "White PLC Hotel",
-    "location": "West Frankfurt, Honduras",
-    "coordinates": {
-      "lat": 50.4990925,
-      "lng": -139.370299
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 92
-      },
-      {
-        "type": "Deluxe",
-        "price": 175
-      },
-      {
-        "type": "Suite",
-        "price": 301
-      }
-    ],
-    "amenities": [
-      "Bar",
-      "Breakfast",
-      "Pool"
-    ],
-    "rating": 4.7,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 15,
-    "name": "Holmes LLC Hotel",
-    "location": "East Ricardoton, Burundi",
-    "coordinates": {
-      "lat": 16.327448,
-      "lng": -31.820329
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 114
-      },
-      {
-        "type": "Deluxe",
-        "price": 179
-      },
-      {
-        "type": "Suite",
-        "price": 332
-      }
-    ],
-    "amenities": [
-      "Pool",
-      "Breakfast",
-      "Restaurant",
-      "WiFi",
-      "Gym"
-    ],
-    "rating": 4.5,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 16,
-    "name": "Navarro-Bailey Hotel",
-    "location": "Allisonview, Tonga",
-    "coordinates": {
-      "lat": 65.733009,
-      "lng": 160.389644
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 94
-      },
-      {
-        "type": "Deluxe",
-        "price": 170
-      },
-      {
-        "type": "Suite",
-        "price": 347
+        "price": 346
       }
     ],
     "amenities": [
       "Restaurant",
-      "Gym",
-      "Spa"
-    ],
-    "rating": 3.6,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 17,
-    "name": "Roberts-Stewart Hotel",
-    "location": "West Spencer, Turkmenistan",
-    "coordinates": {
-      "lat": 0.006118,
-      "lng": 157.411876
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 93
-      },
-      {
-        "type": "Deluxe",
-        "price": 178
-      },
-      {
-        "type": "Suite",
-        "price": 363
-      }
-    ],
-    "amenities": [
-      "Bar",
-      "Restaurant",
       "Spa",
-      "Gym",
-      "Pool"
+      "Airport Shuttle",
+      "Pet Friendly",
+      "Parking"
     ],
-    "rating": 3.3,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+    "rating": 2.5,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 38.7569,
+    "longitude": 30.5387
   },
   {
-    "id": 18,
-    "name": "Fischer Ltd Hotel",
-    "location": "West Deborahfort, Belgium",
+    "id": 4,
+    "name": "Grand Ağrı Hotel",
+    "location": "Ağrı, Turkey",
     "coordinates": {
-      "lat": -38.2368745,
-      "lng": -173.214293
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 130
-      },
-      {
-        "type": "Deluxe",
-        "price": 211
-      },
-      {
-        "type": "Suite",
-        "price": 290
-      }
-    ],
-    "amenities": [
-      "Gym",
-      "Spa",
-      "Beach Access",
-      "Pool",
-      "WiFi"
-    ],
-    "rating": 3.2,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 19,
-    "name": "Proctor-Williams Hotel",
-    "location": "Barbermouth, Iraq",
-    "coordinates": {
-      "lat": 28.2711755,
-      "lng": 1.416579
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 118
-      },
-      {
-        "type": "Deluxe",
-        "price": 195
-      },
-      {
-        "type": "Suite",
-        "price": 387
-      }
-    ],
-    "amenities": [
-      "Gym",
-      "Parking",
-      "Bar",
-      "WiFi"
-    ],
-    "rating": 3.2,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 20,
-    "name": "Huber-Nolan Hotel",
-    "location": "Youngside, Tajikistan",
-    "coordinates": {
-      "lat": 77.3823585,
-      "lng": 135.267393
+      "lat": -25.802079,
+      "lng": -156.55636
     },
     "room_types": [
       {
@@ -611,128 +116,37 @@
       },
       {
         "type": "Deluxe",
-        "price": 176
+        "price": 238
       },
       {
         "type": "Suite",
-        "price": 333
-      }
-    ],
-    "amenities": [
-      "Bar",
-      "Pool",
-      "Parking",
-      "Beach Access",
-      "Spa",
-      "Restaurant"
-    ],
-    "rating": 3.9,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 21,
-    "name": "Moore, Hamilton and Jordan Hotel",
-    "location": "Tuckerville, New Caledonia",
-    "coordinates": {
-      "lat": -37.126382,
-      "lng": 133.523033
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 134
-      },
-      {
-        "type": "Deluxe",
-        "price": 237
-      },
-      {
-        "type": "Suite",
-        "price": 384
+        "price": 418
       }
     ],
     "amenities": [
       "Breakfast",
-      "Parking",
-      "Spa"
-    ],
-    "rating": 4.9,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 22,
-    "name": "Rodriguez Ltd Hotel",
-    "location": "Port Katrina, Lesotho",
-    "coordinates": {
-      "lat": 22.818518,
-      "lng": -170.541767
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 124
-      },
-      {
-        "type": "Deluxe",
-        "price": 179
-      },
-      {
-        "type": "Suite",
-        "price": 386
-      }
-    ],
-    "amenities": [
+      "Restaurant",
       "Spa",
-      "WiFi",
-      "Breakfast"
+      "Parking",
+      "Gym"
     ],
-    "rating": 4.7,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+    "rating": 3.2,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 39.7191,
+    "longitude": 43.0519
   },
   {
-    "id": 23,
-    "name": "Green, Cook and Johnson Hotel",
-    "location": "Tamaraland, Algeria",
+    "id": 5,
+    "name": "Grand Amasya Hotel",
+    "location": "Amasya, Turkey",
     "coordinates": {
-      "lat": -13.174888,
-      "lng": -77.534711
+      "lat": -65.137358,
+      "lng": 89.39262
     },
     "room_types": [
       {
         "type": "Standard",
-        "price": 119
-      },
-      {
-        "type": "Deluxe",
-        "price": 201
-      },
-      {
-        "type": "Suite",
-        "price": 338
-      }
-    ],
-    "amenities": [
-      "Bar",
-      "Beach Access",
-      "WiFi",
-      "Gym",
-      "Breakfast"
-    ],
-    "rating": 4.3,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 24,
-    "name": "Miller Group Hotel",
-    "location": "Gutierrezville, Puerto Rico",
-    "coordinates": {
-      "lat": 23.953009,
-      "lng": 94.777129
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 113
+        "price": 123
       },
       {
         "type": "Deluxe",
@@ -740,95 +154,173 @@
       },
       {
         "type": "Suite",
-        "price": 263
+        "price": 498
+      }
+    ],
+    "amenities": [
+      "WiFi",
+      "Parking",
+      "Spa",
+      "Pet Friendly",
+      "Airport Shuttle"
+    ],
+    "rating": 3.0,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.6539,
+    "longitude": 35.8336
+  },
+  {
+    "id": 6,
+    "name": "Grand Ankara Hotel",
+    "location": "Ankara, Turkey",
+    "coordinates": {
+      "lat": -23.833039,
+      "lng": -66.898559
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 139
+      },
+      {
+        "type": "Deluxe",
+        "price": 189
+      },
+      {
+        "type": "Suite",
+        "price": 372
       }
     ],
     "amenities": [
       "Restaurant",
+      "Pool",
+      "Airport Shuttle",
+      "Breakfast",
+      "Pet Friendly"
+    ],
+    "rating": 3.4,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 39.9208,
+    "longitude": 32.8541
+  },
+  {
+    "id": 7,
+    "name": "Grand Antalya Hotel",
+    "location": "Antalya, Turkey",
+    "coordinates": {
+      "lat": -76.467785,
+      "lng": -46.611351
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 148
+      },
+      {
+        "type": "Deluxe",
+        "price": 237
+      },
+      {
+        "type": "Suite",
+        "price": 300
+      }
+    ],
+    "amenities": [
+      "Gym",
+      "Bar",
+      "Breakfast",
+      "Parking",
+      "Restaurant"
+    ],
+    "rating": 3.9,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 36.8841,
+    "longitude": 30.7056
+  },
+  {
+    "id": 8,
+    "name": "Grand Artvin Hotel",
+    "location": "Artvin, Turkey",
+    "coordinates": {
+      "lat": -87.916169,
+      "lng": 178.769893
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 112
+      },
+      {
+        "type": "Deluxe",
+        "price": 169
+      },
+      {
+        "type": "Suite",
+        "price": 360
+      }
+    ],
+    "amenities": [
+      "Airport Shuttle",
       "WiFi",
+      "Restaurant",
+      "Pool",
       "Bar"
     ],
-    "rating": 3.6,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+    "rating": 3.2,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 41.1828,
+    "longitude": 41.8183
   },
   {
-    "id": 25,
-    "name": "Hughes, Chavez and Davis Hotel",
-    "location": "West Jesse, Western Sahara",
+    "id": 9,
+    "name": "Grand Aydın Hotel",
+    "location": "Aydın, Turkey",
     "coordinates": {
-      "lat": 68.6091855,
-      "lng": 20.294089
+      "lat": -75.010136,
+      "lng": -77.418818
     },
     "room_types": [
       {
         "type": "Standard",
-        "price": 141
+        "price": 117
       },
       {
         "type": "Deluxe",
-        "price": 157
+        "price": 160
       },
       {
         "type": "Suite",
-        "price": 320
+        "price": 340
       }
     ],
     "amenities": [
-      "Beach Access",
-      "Breakfast",
-      "Spa"
+      "Gym",
+      "Pool",
+      "Airport Shuttle",
+      "Bar",
+      "Restaurant"
     ],
-    "rating": 4.4,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+    "rating": 3.8,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.845,
+    "longitude": 27.8396
   },
   {
-    "id": 26,
-    "name": "Flores, Robinson and Kim Hotel",
-    "location": "Martinezton, Malawi",
+    "id": 10,
+    "name": "Grand Balıkesir Hotel",
+    "location": "Balıkesir, Turkey",
     "coordinates": {
-      "lat": -16.8392285,
-      "lng": -45.204907
+      "lat": -82.969605,
+      "lng": -118.507661
     },
     "room_types": [
       {
         "type": "Standard",
-        "price": 86
+        "price": 144
       },
       {
         "type": "Deluxe",
-        "price": 222
-      },
-      {
-        "type": "Suite",
-        "price": 311
-      }
-    ],
-    "amenities": [
-      "Beach Access",
-      "Spa",
-      "Restaurant",
-      "Breakfast",
-      "Gym"
-    ],
-    "rating": 4.2,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
-  },
-  {
-    "id": 27,
-    "name": "Walker LLC Hotel",
-    "location": "Garzaville, Austria",
-    "coordinates": {
-      "lat": 1.3798585,
-      "lng": 143.165122
-    },
-    "room_types": [
-      {
-        "type": "Standard",
-        "price": 130
-      },
-      {
-        "type": "Deluxe",
-        "price": 222
+        "price": 227
       },
       {
         "type": "Suite",
@@ -837,25 +329,96 @@
     ],
     "amenities": [
       "Gym",
+      "Restaurant",
       "Spa",
-      "Beach Access",
-      "Pool"
+      "Pool",
+      "WiFi"
     ],
-    "rating": 3.2,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+    "rating": 2.7,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 39.6492,
+    "longitude": 27.8861
   },
   {
-    "id": 28,
-    "name": "Harvey-Williams Hotel",
-    "location": "Pollardshire, Eritrea",
+    "id": 11,
+    "name": "Grand Bartın Hotel",
+    "location": "Bartın, Turkey",
     "coordinates": {
-      "lat": 25.1844155,
-      "lng": -107.811441
+      "lat": 20.687972,
+      "lng": 159.452757
     },
     "room_types": [
       {
         "type": "Standard",
-        "price": 150
+        "price": 112
+      },
+      {
+        "type": "Deluxe",
+        "price": 179
+      },
+      {
+        "type": "Suite",
+        "price": 396
+      }
+    ],
+    "amenities": [
+      "Breakfast",
+      "Spa",
+      "Gym",
+      "Pet Friendly",
+      "Bar"
+    ],
+    "rating": 2.7,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 41.6344,
+    "longitude": 32.3376
+  },
+  {
+    "id": 12,
+    "name": "Grand Batman Hotel",
+    "location": "Batman, Turkey",
+    "coordinates": {
+      "lat": -78.657444,
+      "lng": -159.024689
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 125
+      },
+      {
+        "type": "Deluxe",
+        "price": 170
+      },
+      {
+        "type": "Suite",
+        "price": 489
+      }
+    ],
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Pet Friendly",
+      "Bar",
+      "WiFi"
+    ],
+    "rating": 3.3,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.8812,
+    "longitude": 41.1351
+  },
+  {
+    "id": 13,
+    "name": "Grand Bayburt Hotel",
+    "location": "Bayburt, Turkey",
+    "coordinates": {
+      "lat": 56.213275,
+      "lng": -111.238836
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 108
       },
       {
         "type": "Deluxe",
@@ -863,57 +426,198 @@
       },
       {
         "type": "Suite",
-        "price": 312
+        "price": 499
       }
     ],
     "amenities": [
-      "WiFi",
-      "Breakfast",
       "Spa",
-      "Pool"
+      "Pet Friendly",
+      "Bar",
+      "Gym",
+      "Breakfast"
     ],
-    "rating": 4.4,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+    "rating": 4.2,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.256,
+    "longitude": 40.222
   },
   {
-    "id": 29,
-    "name": "Hudson, Rodriguez and Schmidt Hotel",
-    "location": "West Kayla, Benin",
+    "id": 14,
+    "name": "Grand Bilecik Hotel",
+    "location": "Bilecik, Turkey",
     "coordinates": {
-      "lat": -50.5194345,
-      "lng": 88.038435
+      "lat": 23.01762,
+      "lng": -48.217983
     },
     "room_types": [
       {
         "type": "Standard",
-        "price": 82
+        "price": 135
       },
       {
         "type": "Deluxe",
-        "price": 193
+        "price": 165
       },
       {
         "type": "Suite",
-        "price": 314
+        "price": 465
+      }
+    ],
+    "amenities": [
+      "WiFi",
+      "Restaurant",
+      "Gym",
+      "Parking",
+      "Pool"
+    ],
+    "rating": 4.0,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.15,
+    "longitude": 29.9833
+  },
+  {
+    "id": 15,
+    "name": "Grand Bingöl Hotel",
+    "location": "Bingöl, Turkey",
+    "coordinates": {
+      "lat": 20.052598,
+      "lng": -127.6686
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 130
+      },
+      {
+        "type": "Deluxe",
+        "price": 219
+      },
+      {
+        "type": "Suite",
+        "price": 411
+      }
+    ],
+    "amenities": [
+      "Pool",
+      "Pet Friendly",
+      "WiFi",
+      "Airport Shuttle",
+      "Parking"
+    ],
+    "rating": 4.4,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 38.8854,
+    "longitude": 40.4983
+  },
+  {
+    "id": 16,
+    "name": "Grand Bitlis Hotel",
+    "location": "Bitlis, Turkey",
+    "coordinates": {
+      "lat": 64.691497,
+      "lng": -149.957433
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 143
+      },
+      {
+        "type": "Deluxe",
+        "price": 225
+      },
+      {
+        "type": "Suite",
+        "price": 352
+      }
+    ],
+    "amenities": [
+      "Airport Shuttle",
+      "Spa",
+      "Gym",
+      "Bar",
+      "Breakfast"
+    ],
+    "rating": 4.7,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 38.4,
+    "longitude": 42.1167
+  },
+  {
+    "id": 17,
+    "name": "Grand Bolu Hotel",
+    "location": "Bolu, Turkey",
+    "coordinates": {
+      "lat": -14.046803,
+      "lng": 33.198497
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 112
+      },
+      {
+        "type": "Deluxe",
+        "price": 188
+      },
+      {
+        "type": "Suite",
+        "price": 343
       }
     ],
     "amenities": [
       "Bar",
-      "Pool",
-      "Restaurant",
       "Gym",
-      "WiFi"
+      "Pool",
+      "Breakfast",
+      "Spa"
     ],
-    "rating": 4.6,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+    "rating": 3.0,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.7395,
+    "longitude": 31.6116
   },
   {
-    "id": 30,
-    "name": "Miller Inc Hotel",
-    "location": "Port Darren, Paraguay",
+    "id": 18,
+    "name": "Grand Burdur Hotel",
+    "location": "Burdur, Turkey",
     "coordinates": {
-      "lat": 9.0204015,
-      "lng": 13.430917
+      "lat": -76.80942,
+      "lng": -0.50814
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 144
+      },
+      {
+        "type": "Deluxe",
+        "price": 218
+      },
+      {
+        "type": "Suite",
+        "price": 355
+      }
+    ],
+    "amenities": [
+      "Bar",
+      "Breakfast",
+      "Parking",
+      "Airport Shuttle",
+      "Restaurant"
+    ],
+    "rating": 4.4,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.7203,
+    "longitude": 30.2908
+  },
+  {
+    "id": 19,
+    "name": "Grand Bursa Hotel",
+    "location": "Bursa, Turkey",
+    "coordinates": {
+      "lat": -58.970544,
+      "lng": 177.648524
     },
     "room_types": [
       {
@@ -922,22 +626,2777 @@
       },
       {
         "type": "Deluxe",
-        "price": 151
+        "price": 183
       },
       {
         "type": "Suite",
-        "price": 240
+        "price": 461
+      }
+    ],
+    "amenities": [
+      "Restaurant",
+      "WiFi",
+      "Pet Friendly",
+      "Breakfast",
+      "Bar"
+    ],
+    "rating": 4.5,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.195,
+    "longitude": 29.0601
+  },
+  {
+    "id": 20,
+    "name": "Grand Çanakkale Hotel",
+    "location": "Çanakkale, Turkey",
+    "coordinates": {
+      "lat": 24.630976,
+      "lng": -57.694571
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 98
+      },
+      {
+        "type": "Deluxe",
+        "price": 215
+      },
+      {
+        "type": "Suite",
+        "price": 370
+      }
+    ],
+    "amenities": [
+      "Gym",
+      "Airport Shuttle",
+      "Pet Friendly",
+      "Restaurant",
+      "Parking"
+    ],
+    "rating": 2.7,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.1467,
+    "longitude": 26.4086
+  },
+  {
+    "id": 21,
+    "name": "Grand Çankırı Hotel",
+    "location": "Çankırı, Turkey",
+    "coordinates": {
+      "lat": 61.119751,
+      "lng": 110.168094
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 109
+      },
+      {
+        "type": "Deluxe",
+        "price": 188
+      },
+      {
+        "type": "Suite",
+        "price": 456
+      }
+    ],
+    "amenities": [
+      "Pool",
+      "Parking",
+      "Breakfast",
+      "WiFi",
+      "Gym"
+    ],
+    "rating": 3.5,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.6,
+    "longitude": 33.6167
+  },
+  {
+    "id": 22,
+    "name": "Grand Çorum Hotel",
+    "location": "Çorum, Turkey",
+    "coordinates": {
+      "lat": -2.470754,
+      "lng": 167.691986
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 101
+      },
+      {
+        "type": "Deluxe",
+        "price": 214
+      },
+      {
+        "type": "Suite",
+        "price": 381
+      }
+    ],
+    "amenities": [
+      "Spa",
+      "Gym",
+      "Pool",
+      "Restaurant",
+      "Parking"
+    ],
+    "rating": 4.6,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.55,
+    "longitude": 34.95
+  },
+  {
+    "id": 23,
+    "name": "Grand Denizli Hotel",
+    "location": "Denizli, Turkey",
+    "coordinates": {
+      "lat": 74.760776,
+      "lng": -99.936107
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 107
+      },
+      {
+        "type": "Deluxe",
+        "price": 176
+      },
+      {
+        "type": "Suite",
+        "price": 443
+      }
+    ],
+    "amenities": [
+      "WiFi",
+      "Bar",
+      "Parking",
+      "Pool",
+      "Breakfast"
+    ],
+    "rating": 4.2,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.7765,
+    "longitude": 29.0864
+  },
+  {
+    "id": 24,
+    "name": "Grand Diyarbakır Hotel",
+    "location": "Diyarbakır, Turkey",
+    "coordinates": {
+      "lat": 33.154874,
+      "lng": 40.300281
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 86
+      },
+      {
+        "type": "Deluxe",
+        "price": 250
+      },
+      {
+        "type": "Suite",
+        "price": 374
       }
     ],
     "amenities": [
       "Parking",
-      "Beach Access",
+      "Breakfast",
+      "Bar",
+      "WiFi",
+      "Restaurant"
+    ],
+    "rating": 4.4,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.9144,
+    "longitude": 40.2306
+  },
+  {
+    "id": 25,
+    "name": "Grand Düzce Hotel",
+    "location": "Düzce, Turkey",
+    "coordinates": {
+      "lat": -15.559384,
+      "lng": -57.941211
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 124
+      },
+      {
+        "type": "Deluxe",
+        "price": 182
+      },
+      {
+        "type": "Suite",
+        "price": 395
+      }
+    ],
+    "amenities": [
+      "Airport Shuttle",
+      "Gym",
+      "Spa",
+      "Pet Friendly",
+      "Breakfast"
+    ],
+    "rating": 4.9,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.8438,
+    "longitude": 31.1565
+  },
+  {
+    "id": 26,
+    "name": "Grand Edirne Hotel",
+    "location": "Edirne, Turkey",
+    "coordinates": {
+      "lat": 36.084794,
+      "lng": -15.173606
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 107
+      },
+      {
+        "type": "Deluxe",
+        "price": 221
+      },
+      {
+        "type": "Suite",
+        "price": 325
+      }
+    ],
+    "amenities": [
+      "Pet Friendly",
+      "Restaurant",
+      "Pool",
+      "Parking",
+      "Airport Shuttle"
+    ],
+    "rating": 2.7,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 41.6667,
+    "longitude": 26.5667
+  },
+  {
+    "id": 27,
+    "name": "Grand Elazığ Hotel",
+    "location": "Elazığ, Turkey",
+    "coordinates": {
+      "lat": -82.145953,
+      "lng": 66.967193
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 127
+      },
+      {
+        "type": "Deluxe",
+        "price": 168
+      },
+      {
+        "type": "Suite",
+        "price": 326
+      }
+    ],
+    "amenities": [
+      "WiFi",
+      "Pet Friendly",
+      "Pool",
+      "Restaurant",
+      "Parking"
+    ],
+    "rating": 4.1,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 38.675,
+    "longitude": 39.2239
+  },
+  {
+    "id": 28,
+    "name": "Grand Erzincan Hotel",
+    "location": "Erzincan, Turkey",
+    "coordinates": {
+      "lat": 57.386,
+      "lng": -174.009466
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 128
+      },
+      {
+        "type": "Deluxe",
+        "price": 167
+      },
+      {
+        "type": "Suite",
+        "price": 367
+      }
+    ],
+    "amenities": [
+      "WiFi",
+      "Pet Friendly",
+      "Airport Shuttle",
+      "Restaurant",
+      "Spa"
+    ],
+    "rating": 2.8,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 39.75,
+    "longitude": 39.5
+  },
+  {
+    "id": 29,
+    "name": "Grand Erzurum Hotel",
+    "location": "Erzurum, Turkey",
+    "coordinates": {
+      "lat": -89.126718,
+      "lng": -137.021433
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 147
+      },
+      {
+        "type": "Deluxe",
+        "price": 239
+      },
+      {
+        "type": "Suite",
+        "price": 367
+      }
+    ],
+    "amenities": [
+      "WiFi",
+      "Bar",
+      "Breakfast",
+      "Spa",
+      "Gym"
+    ],
+    "rating": 3.5,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 39.9086,
+    "longitude": 41.2769
+  },
+  {
+    "id": 30,
+    "name": "Grand Eskişehir Hotel",
+    "location": "Eskişehir, Turkey",
+    "coordinates": {
+      "lat": 79.291569,
+      "lng": -49.380561
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 143
+      },
+      {
+        "type": "Deluxe",
+        "price": 169
+      },
+      {
+        "type": "Suite",
+        "price": 413
+      }
+    ],
+    "amenities": [
+      "Breakfast",
+      "WiFi",
+      "Airport Shuttle",
+      "Pet Friendly",
+      "Parking"
+    ],
+    "rating": 3.0,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 39.7767,
+    "longitude": 30.5206
+  },
+  {
+    "id": 31,
+    "name": "Grand Gaziantep Hotel",
+    "location": "Gaziantep, Turkey",
+    "coordinates": {
+      "lat": 59.561329,
+      "lng": -79.149707
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 95
+      },
+      {
+        "type": "Deluxe",
+        "price": 219
+      },
+      {
+        "type": "Suite",
+        "price": 390
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Breakfast",
+      "Spa",
+      "Restaurant",
+      "Airport Shuttle"
+    ],
+    "rating": 4.0,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.0662,
+    "longitude": 37.3833
+  },
+  {
+    "id": 32,
+    "name": "Grand Giresun Hotel",
+    "location": "Giresun, Turkey",
+    "coordinates": {
+      "lat": 1.881707,
+      "lng": -95.334464
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 80
+      },
+      {
+        "type": "Deluxe",
+        "price": 225
+      },
+      {
+        "type": "Suite",
+        "price": 457
+      }
+    ],
+    "amenities": [
+      "Gym",
+      "Spa",
+      "Airport Shuttle",
+      "Bar",
+      "Parking"
+    ],
+    "rating": 4.0,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.9128,
+    "longitude": 38.3895
+  },
+  {
+    "id": 33,
+    "name": "Grand Gümüşhane Hotel",
+    "location": "Gümüşhane, Turkey",
+    "coordinates": {
+      "lat": -12.231432,
+      "lng": -172.470072
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 135
+      },
+      {
+        "type": "Deluxe",
+        "price": 246
+      },
+      {
+        "type": "Suite",
+        "price": 304
+      }
+    ],
+    "amenities": [
+      "Airport Shuttle",
+      "WiFi",
+      "Pool",
+      "Restaurant",
+      "Gym"
+    ],
+    "rating": 3.6,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.4603,
+    "longitude": 39.4814
+  },
+  {
+    "id": 34,
+    "name": "Grand Hakkari Hotel",
+    "location": "Hakkari, Turkey",
+    "coordinates": {
+      "lat": -52.339611,
+      "lng": 88.880125
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 131
+      },
+      {
+        "type": "Deluxe",
+        "price": 227
+      },
+      {
+        "type": "Suite",
+        "price": 301
+      }
+    ],
+    "amenities": [
+      "Pet Friendly",
+      "Gym",
+      "Pool",
+      "WiFi",
+      "Restaurant"
+    ],
+    "rating": 3.1,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.5833,
+    "longitude": 43.7333
+  },
+  {
+    "id": 35,
+    "name": "Grand Hatay Hotel",
+    "location": "Hatay, Turkey",
+    "coordinates": {
+      "lat": -73.821562,
+      "lng": 23.977622
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 85
+      },
+      {
+        "type": "Deluxe",
+        "price": 231
+      },
+      {
+        "type": "Suite",
+        "price": 403
+      }
+    ],
+    "amenities": [
+      "Airport Shuttle",
+      "Restaurant",
+      "Pet Friendly",
+      "Pool",
+      "Parking"
+    ],
+    "rating": 2.8,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 36.2028,
+    "longitude": 36.1605
+  },
+  {
+    "id": 36,
+    "name": "Grand Iğdır Hotel",
+    "location": "Iğdır, Turkey",
+    "coordinates": {
+      "lat": 30.686486,
+      "lng": -49.988159
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 129
+      },
+      {
+        "type": "Deluxe",
+        "price": 192
+      },
+      {
+        "type": "Suite",
+        "price": 357
+      }
+    ],
+    "amenities": [
+      "Pool",
+      "Gym",
+      "Breakfast",
+      "Airport Shuttle",
+      "Parking"
+    ],
+    "rating": 5.0,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 39.888,
+    "longitude": 44.0048
+  },
+  {
+    "id": 37,
+    "name": "Grand Isparta Hotel",
+    "location": "Isparta, Turkey",
+    "coordinates": {
+      "lat": -11.701739,
+      "lng": -11.765095
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 115
+      },
+      {
+        "type": "Deluxe",
+        "price": 220
+      },
+      {
+        "type": "Suite",
+        "price": 454
+      }
+    ],
+    "amenities": [
+      "Breakfast",
+      "Pet Friendly",
+      "Spa",
+      "Restaurant",
+      "Gym"
+    ],
+    "rating": 3.3,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.7648,
+    "longitude": 30.5566
+  },
+  {
+    "id": 38,
+    "name": "Grand İstanbul Hotel",
+    "location": "İstanbul, Turkey",
+    "coordinates": {
+      "lat": 10.834484,
+      "lng": -27.209429
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 111
+      },
+      {
+        "type": "Deluxe",
+        "price": 170
+      },
+      {
+        "type": "Suite",
+        "price": 367
+      }
+    ],
+    "amenities": [
+      "Pool",
+      "WiFi",
+      "Spa",
+      "Bar",
+      "Gym"
+    ],
+    "rating": 2.7,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 41.0082,
+    "longitude": 28.9784
+  },
+  {
+    "id": 39,
+    "name": "Grand İzmir Hotel",
+    "location": "İzmir, Turkey",
+    "coordinates": {
+      "lat": 49.050677,
+      "lng": 11.804578
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 85
+      },
+      {
+        "type": "Deluxe",
+        "price": 235
+      },
+      {
+        "type": "Suite",
+        "price": 469
+      }
+    ],
+    "amenities": [
+      "Spa",
+      "WiFi",
+      "Gym",
+      "Restaurant",
+      "Breakfast"
+    ],
+    "rating": 4.0,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 38.4192,
+    "longitude": 27.1287
+  },
+  {
+    "id": 40,
+    "name": "Grand Kahramanmaraş Hotel",
+    "location": "Kahramanmaraş, Turkey",
+    "coordinates": {
+      "lat": 64.025414,
+      "lng": 137.26987
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 102
+      },
+      {
+        "type": "Deluxe",
+        "price": 188
+      },
+      {
+        "type": "Suite",
+        "price": 474
+      }
+    ],
+    "amenities": [
+      "Airport Shuttle",
+      "Spa",
+      "Gym",
+      "Bar",
+      "Restaurant"
+    ],
+    "rating": 4.9,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.5736,
+    "longitude": 36.9371
+  },
+  {
+    "id": 41,
+    "name": "Grand Karabük Hotel",
+    "location": "Karabük, Turkey",
+    "coordinates": {
+      "lat": -70.794849,
+      "lng": -90.93265
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 119
+      },
+      {
+        "type": "Deluxe",
+        "price": 184
+      },
+      {
+        "type": "Suite",
+        "price": 499
+      }
+    ],
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Bar",
+      "Spa",
+      "Airport Shuttle"
+    ],
+    "rating": 4.8,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 41.2061,
+    "longitude": 32.6204
+  },
+  {
+    "id": 42,
+    "name": "Grand Karaman Hotel",
+    "location": "Karaman, Turkey",
+    "coordinates": {
+      "lat": -43.426715,
+      "lng": -24.803788
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 85
+      },
+      {
+        "type": "Deluxe",
+        "price": 220
+      },
+      {
+        "type": "Suite",
+        "price": 383
+      }
+    ],
+    "amenities": [
       "Gym",
       "Restaurant",
       "Breakfast",
-      "WiFi"
+      "Airport Shuttle",
+      "Spa"
+    ],
+    "rating": 3.0,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.1759,
+    "longitude": 33.2287
+  },
+  {
+    "id": 43,
+    "name": "Grand Kars Hotel",
+    "location": "Kars, Turkey",
+    "coordinates": {
+      "lat": -42.960144,
+      "lng": 6.403779
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 82
+      },
+      {
+        "type": "Deluxe",
+        "price": 208
+      },
+      {
+        "type": "Suite",
+        "price": 336
+      }
+    ],
+    "amenities": [
+      "Breakfast",
+      "Airport Shuttle",
+      "Gym",
+      "Bar",
+      "Pool"
+    ],
+    "rating": 3.5,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.6167,
+    "longitude": 43.1
+  },
+  {
+    "id": 44,
+    "name": "Grand Kastamonu Hotel",
+    "location": "Kastamonu, Turkey",
+    "coordinates": {
+      "lat": 23.696436,
+      "lng": -11.665796
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 127
+      },
+      {
+        "type": "Deluxe",
+        "price": 194
+      },
+      {
+        "type": "Suite",
+        "price": 315
+      }
+    ],
+    "amenities": [
+      "Airport Shuttle",
+      "Pool",
+      "Bar",
+      "Restaurant",
+      "Breakfast"
+    ],
+    "rating": 3.7,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 41.3897,
+    "longitude": 33.7827
+  },
+  {
+    "id": 45,
+    "name": "Grand Kayseri Hotel",
+    "location": "Kayseri, Turkey",
+    "coordinates": {
+      "lat": -23.066676,
+      "lng": 165.047785
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 124
+      },
+      {
+        "type": "Deluxe",
+        "price": 172
+      },
+      {
+        "type": "Suite",
+        "price": 420
+      }
+    ],
+    "amenities": [
+      "Breakfast",
+      "Restaurant",
+      "Airport Shuttle",
+      "Bar",
+      "Pool"
+    ],
+    "rating": 4.9,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 38.7312,
+    "longitude": 35.4787
+  },
+  {
+    "id": 46,
+    "name": "Grand Kırıkkale Hotel",
+    "location": "Kırıkkale, Turkey",
+    "coordinates": {
+      "lat": 61.470408,
+      "lng": -85.025676
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 118
+      },
+      {
+        "type": "Deluxe",
+        "price": 248
+      },
+      {
+        "type": "Suite",
+        "price": 433
+      }
+    ],
+    "amenities": [
+      "WiFi",
+      "Pet Friendly",
+      "Restaurant",
+      "Spa",
+      "Gym"
+    ],
+    "rating": 2.8,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 39.85,
+    "longitude": 33.5167
+  },
+  {
+    "id": 47,
+    "name": "Grand Kırklareli Hotel",
+    "location": "Kırklareli, Turkey",
+    "coordinates": {
+      "lat": 23.101537,
+      "lng": -127.9393
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 130
+      },
+      {
+        "type": "Deluxe",
+        "price": 229
+      },
+      {
+        "type": "Suite",
+        "price": 499
+      }
+    ],
+    "amenities": [
+      "Spa",
+      "Bar",
+      "Airport Shuttle",
+      "Gym",
+      "Restaurant"
+    ],
+    "rating": 3.0,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 41.7333,
+    "longitude": 27.2167
+  },
+  {
+    "id": 48,
+    "name": "Grand Kırşehir Hotel",
+    "location": "Kırşehir, Turkey",
+    "coordinates": {
+      "lat": -30.685041,
+      "lng": 161.484498
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 99
+      },
+      {
+        "type": "Deluxe",
+        "price": 167
+      },
+      {
+        "type": "Suite",
+        "price": 446
+      }
+    ],
+    "amenities": [
+      "Restaurant",
+      "Parking",
+      "Airport Shuttle",
+      "Breakfast",
+      "Pet Friendly"
+    ],
+    "rating": 3.7,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 39.1458,
+    "longitude": 34.1603
+  },
+  {
+    "id": 49,
+    "name": "Grand Kilis Hotel",
+    "location": "Kilis, Turkey",
+    "coordinates": {
+      "lat": -68.344586,
+      "lng": -171.831432
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 132
+      },
+      {
+        "type": "Deluxe",
+        "price": 189
+      },
+      {
+        "type": "Suite",
+        "price": 393
+      }
+    ],
+    "amenities": [
+      "Pet Friendly",
+      "Breakfast",
+      "Parking",
+      "WiFi",
+      "Pool"
+    ],
+    "rating": 2.8,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 36.7167,
+    "longitude": 37.1167
+  },
+  {
+    "id": 50,
+    "name": "Grand Kocaeli Hotel",
+    "location": "Kocaeli, Turkey",
+    "coordinates": {
+      "lat": -29.298766,
+      "lng": -22.079206
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 115
+      },
+      {
+        "type": "Deluxe",
+        "price": 210
+      },
+      {
+        "type": "Suite",
+        "price": 361
+      }
+    ],
+    "amenities": [
+      "Pet Friendly",
+      "Restaurant",
+      "Parking",
+      "Pool",
+      "Airport Shuttle"
+    ],
+    "rating": 4.0,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.7654,
+    "longitude": 29.9406
+  },
+  {
+    "id": 51,
+    "name": "Grand Konya Hotel",
+    "location": "Konya, Turkey",
+    "coordinates": {
+      "lat": 43.640967,
+      "lng": -79.483437
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 119
+      },
+      {
+        "type": "Deluxe",
+        "price": 189
+      },
+      {
+        "type": "Suite",
+        "price": 422
+      }
+    ],
+    "amenities": [
+      "Gym",
+      "Spa",
+      "Bar",
+      "Breakfast",
+      "Airport Shuttle"
+    ],
+    "rating": 4.3,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.8714,
+    "longitude": 32.4846
+  },
+  {
+    "id": 52,
+    "name": "Grand Kütahya Hotel",
+    "location": "Kütahya, Turkey",
+    "coordinates": {
+      "lat": 46.908949,
+      "lng": 79.430358
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 118
+      },
+      {
+        "type": "Deluxe",
+        "price": 238
+      },
+      {
+        "type": "Suite",
+        "price": 437
+      }
+    ],
+    "amenities": [
+      "WiFi",
+      "Airport Shuttle",
+      "Spa",
+      "Restaurant",
+      "Parking"
     ],
     "rating": 3.6,
-    "thumbnail": "https://media-cdn.tripadvisor.com/media/photo-s/16/56/70/c9/random-hotel-shots.jpg"
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 39.4195,
+    "longitude": 29.9857
+  },
+  {
+    "id": 53,
+    "name": "Grand Malatya Hotel",
+    "location": "Malatya, Turkey",
+    "coordinates": {
+      "lat": 59.21787,
+      "lng": -131.338744
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 116
+      },
+      {
+        "type": "Deluxe",
+        "price": 226
+      },
+      {
+        "type": "Suite",
+        "price": 428
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Airport Shuttle",
+      "Pool",
+      "Bar",
+      "Gym"
+    ],
+    "rating": 2.9,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 38.3552,
+    "longitude": 38.3095
+  },
+  {
+    "id": 54,
+    "name": "Grand Manisa Hotel",
+    "location": "Manisa, Turkey",
+    "coordinates": {
+      "lat": -78.513503,
+      "lng": -31.41558
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 93
+      },
+      {
+        "type": "Deluxe",
+        "price": 174
+      },
+      {
+        "type": "Suite",
+        "price": 335
+      }
+    ],
+    "amenities": [
+      "Breakfast",
+      "Spa",
+      "Parking",
+      "WiFi",
+      "Bar"
+    ],
+    "rating": 2.5,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 38.6191,
+    "longitude": 27.4289
+  },
+  {
+    "id": 55,
+    "name": "Grand Mardin Hotel",
+    "location": "Mardin, Turkey",
+    "coordinates": {
+      "lat": -48.787631,
+      "lng": -37.111373
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 137
+      },
+      {
+        "type": "Deluxe",
+        "price": 215
+      },
+      {
+        "type": "Suite",
+        "price": 468
+      }
+    ],
+    "amenities": [
+      "Restaurant",
+      "WiFi",
+      "Bar",
+      "Spa",
+      "Parking"
+    ],
+    "rating": 2.9,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.3212,
+    "longitude": 40.7245
+  },
+  {
+    "id": 56,
+    "name": "Grand Mersin Hotel",
+    "location": "Mersin, Turkey",
+    "coordinates": {
+      "lat": -62.001455,
+      "lng": 139.05926
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 103
+      },
+      {
+        "type": "Deluxe",
+        "price": 176
+      },
+      {
+        "type": "Suite",
+        "price": 323
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Pet Friendly",
+      "WiFi",
+      "Spa",
+      "Restaurant"
+    ],
+    "rating": 3.6,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 36.8,
+    "longitude": 34.6333
+  },
+  {
+    "id": 57,
+    "name": "Grand Muğla Hotel",
+    "location": "Muğla, Turkey",
+    "coordinates": {
+      "lat": -67.189612,
+      "lng": -10.122519
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 120
+      },
+      {
+        "type": "Deluxe",
+        "price": 225
+      },
+      {
+        "type": "Suite",
+        "price": 400
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Pool",
+      "Bar",
+      "Breakfast",
+      "Restaurant"
+    ],
+    "rating": 4.1,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.2153,
+    "longitude": 28.3636
+  },
+  {
+    "id": 58,
+    "name": "Grand Muş Hotel",
+    "location": "Muş, Turkey",
+    "coordinates": {
+      "lat": 82.76414,
+      "lng": 133.362784
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 115
+      },
+      {
+        "type": "Deluxe",
+        "price": 228
+      },
+      {
+        "type": "Suite",
+        "price": 371
+      }
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Bar",
+      "Airport Shuttle",
+      "Restaurant"
+    ],
+    "rating": 3.0,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 38.9462,
+    "longitude": 41.7539
+  },
+  {
+    "id": 59,
+    "name": "Grand Nevşehir Hotel",
+    "location": "Nevşehir, Turkey",
+    "coordinates": {
+      "lat": 50.905954,
+      "lng": -4.67783
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 107
+      },
+      {
+        "type": "Deluxe",
+        "price": 177
+      },
+      {
+        "type": "Suite",
+        "price": 310
+      }
+    ],
+    "amenities": [
+      "Breakfast",
+      "Pet Friendly",
+      "Airport Shuttle",
+      "Spa",
+      "Pool"
+    ],
+    "rating": 4.0,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 38.6244,
+    "longitude": 34.7122
+  },
+  {
+    "id": 60,
+    "name": "Grand Niğde Hotel",
+    "location": "Niğde, Turkey",
+    "coordinates": {
+      "lat": 17.23361,
+      "lng": -160.559622
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 133
+      },
+      {
+        "type": "Deluxe",
+        "price": 221
+      },
+      {
+        "type": "Suite",
+        "price": 392
+      }
+    ],
+    "amenities": [
+      "Airport Shuttle",
+      "Gym",
+      "WiFi",
+      "Bar",
+      "Spa"
+    ],
+    "rating": 4.6,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.9667,
+    "longitude": 34.6833
+  },
+  {
+    "id": 61,
+    "name": "Grand Ordu Hotel",
+    "location": "Ordu, Turkey",
+    "coordinates": {
+      "lat": 50.815527,
+      "lng": -140.442194
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 120
+      },
+      {
+        "type": "Deluxe",
+        "price": 183
+      },
+      {
+        "type": "Suite",
+        "price": 465
+      }
+    ],
+    "amenities": [
+      "Airport Shuttle",
+      "Pool",
+      "Restaurant",
+      "Pet Friendly",
+      "Breakfast"
+    ],
+    "rating": 3.2,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.9839,
+    "longitude": 37.8764
+  },
+  {
+    "id": 62,
+    "name": "Grand Osmaniye Hotel",
+    "location": "Osmaniye, Turkey",
+    "coordinates": {
+      "lat": 43.262338,
+      "lng": -155.557288
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 105
+      },
+      {
+        "type": "Deluxe",
+        "price": 242
+      },
+      {
+        "type": "Suite",
+        "price": 412
+      }
+    ],
+    "amenities": [
+      "Pool",
+      "WiFi",
+      "Bar",
+      "Parking",
+      "Gym"
+    ],
+    "rating": 2.6,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.0742,
+    "longitude": 36.2464
+  },
+  {
+    "id": 63,
+    "name": "Grand Rize Hotel",
+    "location": "Rize, Turkey",
+    "coordinates": {
+      "lat": 46.268818,
+      "lng": 30.946636
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 86
+      },
+      {
+        "type": "Deluxe",
+        "price": 226
+      },
+      {
+        "type": "Suite",
+        "price": 496
+      }
+    ],
+    "amenities": [
+      "Bar",
+      "Restaurant",
+      "Parking",
+      "Pool",
+      "Airport Shuttle"
+    ],
+    "rating": 4.6,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 41.025,
+    "longitude": 40.5178
+  },
+  {
+    "id": 64,
+    "name": "Grand Sakarya Hotel",
+    "location": "Sakarya, Turkey",
+    "coordinates": {
+      "lat": 0.342885,
+      "lng": 28.268419
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 88
+      },
+      {
+        "type": "Deluxe",
+        "price": 210
+      },
+      {
+        "type": "Suite",
+        "price": 379
+      }
+    ],
+    "amenities": [
+      "Pet Friendly",
+      "Breakfast",
+      "Spa",
+      "Parking",
+      "Airport Shuttle"
+    ],
+    "rating": 3.4,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.693,
+    "longitude": 30.4358
+  },
+  {
+    "id": 65,
+    "name": "Grand Samsun Hotel",
+    "location": "Samsun, Turkey",
+    "coordinates": {
+      "lat": -10.903198,
+      "lng": 179.983966
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 149
+      },
+      {
+        "type": "Deluxe",
+        "price": 201
+      },
+      {
+        "type": "Suite",
+        "price": 363
+      }
+    ],
+    "amenities": [
+      "Gym",
+      "Pool",
+      "Bar",
+      "Spa",
+      "Airport Shuttle"
+    ],
+    "rating": 4.2,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 41.2867,
+    "longitude": 36.33
+  },
+  {
+    "id": 66,
+    "name": "Grand Siirt Hotel",
+    "location": "Siirt, Turkey",
+    "coordinates": {
+      "lat": 5.702822,
+      "lng": 16.822324
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 99
+      },
+      {
+        "type": "Deluxe",
+        "price": 199
+      },
+      {
+        "type": "Suite",
+        "price": 382
+      }
+    ],
+    "amenities": [
+      "Spa",
+      "Bar",
+      "Gym",
+      "Pet Friendly",
+      "Parking"
+    ],
+    "rating": 3.3,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.9333,
+    "longitude": 41.95
+  },
+  {
+    "id": 67,
+    "name": "Grand Sinop Hotel",
+    "location": "Sinop, Turkey",
+    "coordinates": {
+      "lat": 9.20023,
+      "lng": -120.073308
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 92
+      },
+      {
+        "type": "Deluxe",
+        "price": 165
+      },
+      {
+        "type": "Suite",
+        "price": 433
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "Bar",
+      "Pet Friendly",
+      "Pool"
+    ],
+    "rating": 4.4,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 42.0267,
+    "longitude": 35.15
+  },
+  {
+    "id": 68,
+    "name": "Grand Sivas Hotel",
+    "location": "Sivas, Turkey",
+    "coordinates": {
+      "lat": 45.584017,
+      "lng": -143.280837
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 145
+      },
+      {
+        "type": "Deluxe",
+        "price": 249
+      },
+      {
+        "type": "Suite",
+        "price": 482
+      }
+    ],
+    "amenities": [
+      "Pet Friendly",
+      "Restaurant",
+      "Bar",
+      "Spa",
+      "WiFi"
+    ],
+    "rating": 2.7,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 39.7477,
+    "longitude": 37.0179
+  },
+  {
+    "id": 69,
+    "name": "Grand Şanlıurfa Hotel",
+    "location": "Şanlıurfa, Turkey",
+    "coordinates": {
+      "lat": -4.366483,
+      "lng": -6.303022
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 106
+      },
+      {
+        "type": "Deluxe",
+        "price": 221
+      },
+      {
+        "type": "Suite",
+        "price": 303
+      }
+    ],
+    "amenities": [
+      "Breakfast",
+      "Pool",
+      "WiFi",
+      "Gym",
+      "Restaurant"
+    ],
+    "rating": 3.7,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.1674,
+    "longitude": 38.7955
+  },
+  {
+    "id": 70,
+    "name": "Grand Şırnak Hotel",
+    "location": "Şırnak, Turkey",
+    "coordinates": {
+      "lat": 51.853939,
+      "lng": 136.754147
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 113
+      },
+      {
+        "type": "Deluxe",
+        "price": 170
+      },
+      {
+        "type": "Suite",
+        "price": 344
+      }
+    ],
+    "amenities": [
+      "Spa",
+      "Bar",
+      "Pool",
+      "Parking",
+      "Pet Friendly"
+    ],
+    "rating": 2.8,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.5167,
+    "longitude": 42.45
+  },
+  {
+    "id": 71,
+    "name": "Grand Tekirdağ Hotel",
+    "location": "Tekirdağ, Turkey",
+    "coordinates": {
+      "lat": -75.425905,
+      "lng": 125.02561
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 92
+      },
+      {
+        "type": "Deluxe",
+        "price": 239
+      },
+      {
+        "type": "Suite",
+        "price": 464
+      }
+    ],
+    "amenities": [
+      "Spa",
+      "WiFi",
+      "Restaurant",
+      "Parking",
+      "Pet Friendly"
+    ],
+    "rating": 2.8,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.9833,
+    "longitude": 27.5167
+  },
+  {
+    "id": 72,
+    "name": "Grand Tokat Hotel",
+    "location": "Tokat, Turkey",
+    "coordinates": {
+      "lat": 37.30256,
+      "lng": 157.005022
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 142
+      },
+      {
+        "type": "Deluxe",
+        "price": 186
+      },
+      {
+        "type": "Suite",
+        "price": 388
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Restaurant",
+      "Pet Friendly",
+      "Gym",
+      "Breakfast"
+    ],
+    "rating": 2.8,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.3139,
+    "longitude": 36.5544
+  },
+  {
+    "id": 73,
+    "name": "Grand Trabzon Hotel",
+    "location": "Trabzon, Turkey",
+    "coordinates": {
+      "lat": 66.553296,
+      "lng": -35.70852
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 114
+      },
+      {
+        "type": "Deluxe",
+        "price": 232
+      },
+      {
+        "type": "Suite",
+        "price": 347
+      }
+    ],
+    "amenities": [
+      "Gym",
+      "Airport Shuttle",
+      "Restaurant",
+      "Spa",
+      "WiFi"
+    ],
+    "rating": 3.5,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 41.005,
+    "longitude": 39.7225
+  },
+  {
+    "id": 74,
+    "name": "Grand Tunceli Hotel",
+    "location": "Tunceli, Turkey",
+    "coordinates": {
+      "lat": -31.00732,
+      "lng": 1.707518
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 146
+      },
+      {
+        "type": "Deluxe",
+        "price": 212
+      },
+      {
+        "type": "Suite",
+        "price": 472
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Spa",
+      "Restaurant",
+      "WiFi",
+      "Pet Friendly"
+    ],
+    "rating": 3.2,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 39.1081,
+    "longitude": 39.5489
+  },
+  {
+    "id": 75,
+    "name": "Grand Uşak Hotel",
+    "location": "Uşak, Turkey",
+    "coordinates": {
+      "lat": -85.572325,
+      "lng": 112.404444
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 93
+      },
+      {
+        "type": "Deluxe",
+        "price": 240
+      },
+      {
+        "type": "Suite",
+        "price": 465
+      }
+    ],
+    "amenities": [
+      "Pool",
+      "Airport Shuttle",
+      "Parking",
+      "WiFi",
+      "Spa"
+    ],
+    "rating": 3.2,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 38.6823,
+    "longitude": 29.4082
+  },
+  {
+    "id": 76,
+    "name": "Grand Van Hotel",
+    "location": "Van, Turkey",
+    "coordinates": {
+      "lat": 49.989223,
+      "lng": 93.221936
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 137
+      },
+      {
+        "type": "Deluxe",
+        "price": 209
+      },
+      {
+        "type": "Suite",
+        "price": 449
+      }
+    ],
+    "amenities": [
+      "Breakfast",
+      "Pool",
+      "Spa",
+      "Gym",
+      "WiFi"
+    ],
+    "rating": 4.5,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 38.4942,
+    "longitude": 43.3803
+  },
+  {
+    "id": 77,
+    "name": "Grand Yalova Hotel",
+    "location": "Yalova, Turkey",
+    "coordinates": {
+      "lat": 32.391008,
+      "lng": -169.565388
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 88
+      },
+      {
+        "type": "Deluxe",
+        "price": 168
+      },
+      {
+        "type": "Suite",
+        "price": 399
+      }
+    ],
+    "amenities": [
+      "Pool",
+      "Restaurant",
+      "Gym",
+      "Breakfast",
+      "Spa"
+    ],
+    "rating": 4.3,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.65,
+    "longitude": 29.2667
+  },
+  {
+    "id": 78,
+    "name": "Grand Yozgat Hotel",
+    "location": "Yozgat, Turkey",
+    "coordinates": {
+      "lat": 26.149827,
+      "lng": -27.632666
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 117
+      },
+      {
+        "type": "Deluxe",
+        "price": 204
+      },
+      {
+        "type": "Suite",
+        "price": 307
+      }
+    ],
+    "amenities": [
+      "Airport Shuttle",
+      "Bar",
+      "Gym",
+      "Breakfast",
+      "WiFi"
+    ],
+    "rating": 2.7,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 39.82,
+    "longitude": 34.8044
+  },
+  {
+    "id": 79,
+    "name": "Grand Zonguldak Hotel",
+    "location": "Zonguldak, Turkey",
+    "coordinates": {
+      "lat": -53.60285,
+      "lng": 169.319158
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 128
+      },
+      {
+        "type": "Deluxe",
+        "price": 162
+      },
+      {
+        "type": "Suite",
+        "price": 360
+      }
+    ],
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Restaurant",
+      "Parking",
+      "Gym"
+    ],
+    "rating": 3.0,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 41.4564,
+    "longitude": 31.7987
+  },
+  {
+    "id": 80,
+    "name": "Grand Adana Hotel",
+    "location": "Adana, Turkey",
+    "coordinates": {
+      "lat": 81.45909,
+      "lng": 32.25864
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 144
+      },
+      {
+        "type": "Deluxe",
+        "price": 217
+      },
+      {
+        "type": "Suite",
+        "price": 303
+      }
+    ],
+    "amenities": [
+      "Airport Shuttle",
+      "Gym",
+      "Restaurant",
+      "Pet Friendly",
+      "Parking"
+    ],
+    "rating": 3.5,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.0,
+    "longitude": 35.3213
+  },
+  {
+    "id": 81,
+    "name": "Grand Adıyaman Hotel",
+    "location": "Adıyaman, Turkey",
+    "coordinates": {
+      "lat": 17.822394,
+      "lng": -161.927852
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 110
+      },
+      {
+        "type": "Deluxe",
+        "price": 209
+      },
+      {
+        "type": "Suite",
+        "price": 340
+      }
+    ],
+    "amenities": [
+      "Bar",
+      "Gym",
+      "WiFi",
+      "Parking",
+      "Breakfast"
+    ],
+    "rating": 4.9,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.7648,
+    "longitude": 38.2786
+  },
+  {
+    "id": 82,
+    "name": "Grand Afyonkarahisar Hotel",
+    "location": "Afyonkarahisar, Turkey",
+    "coordinates": {
+      "lat": -68.484981,
+      "lng": 172.983428
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 135
+      },
+      {
+        "type": "Deluxe",
+        "price": 180
+      },
+      {
+        "type": "Suite",
+        "price": 412
+      }
+    ],
+    "amenities": [
+      "Pet Friendly",
+      "Breakfast",
+      "Gym",
+      "Parking",
+      "Pool"
+    ],
+    "rating": 4.6,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 38.7569,
+    "longitude": 30.5387
+  },
+  {
+    "id": 83,
+    "name": "Grand Ağrı Hotel",
+    "location": "Ağrı, Turkey",
+    "coordinates": {
+      "lat": -23.272796,
+      "lng": 66.923209
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 82
+      },
+      {
+        "type": "Deluxe",
+        "price": 180
+      },
+      {
+        "type": "Suite",
+        "price": 467
+      }
+    ],
+    "amenities": [
+      "Restaurant",
+      "Bar",
+      "Spa",
+      "Airport Shuttle",
+      "Parking"
+    ],
+    "rating": 4.8,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 39.7191,
+    "longitude": 43.0519
+  },
+  {
+    "id": 84,
+    "name": "Grand Amasya Hotel",
+    "location": "Amasya, Turkey",
+    "coordinates": {
+      "lat": 68.142273,
+      "lng": -61.707438
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 102
+      },
+      {
+        "type": "Deluxe",
+        "price": 177
+      },
+      {
+        "type": "Suite",
+        "price": 395
+      }
+    ],
+    "amenities": [
+      "Gym",
+      "WiFi",
+      "Bar",
+      "Airport Shuttle",
+      "Spa"
+    ],
+    "rating": 3.2,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.6539,
+    "longitude": 35.8336
+  },
+  {
+    "id": 85,
+    "name": "Grand Ankara Hotel",
+    "location": "Ankara, Turkey",
+    "coordinates": {
+      "lat": 77.113124,
+      "lng": 47.537422
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 140
+      },
+      {
+        "type": "Deluxe",
+        "price": 216
+      },
+      {
+        "type": "Suite",
+        "price": 347
+      }
+    ],
+    "amenities": [
+      "Restaurant",
+      "Bar",
+      "Parking",
+      "WiFi",
+      "Airport Shuttle"
+    ],
+    "rating": 3.7,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 39.9208,
+    "longitude": 32.8541
+  },
+  {
+    "id": 86,
+    "name": "Grand Antalya Hotel",
+    "location": "Antalya, Turkey",
+    "coordinates": {
+      "lat": 67.340458,
+      "lng": 114.706613
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 133
+      },
+      {
+        "type": "Deluxe",
+        "price": 190
+      },
+      {
+        "type": "Suite",
+        "price": 408
+      }
+    ],
+    "amenities": [
+      "Bar",
+      "Breakfast",
+      "Pet Friendly",
+      "Airport Shuttle",
+      "Pool"
+    ],
+    "rating": 4.8,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 36.8841,
+    "longitude": 30.7056
+  },
+  {
+    "id": 87,
+    "name": "Grand Artvin Hotel",
+    "location": "Artvin, Turkey",
+    "coordinates": {
+      "lat": -24.317961,
+      "lng": 177.167814
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 136
+      },
+      {
+        "type": "Deluxe",
+        "price": 199
+      },
+      {
+        "type": "Suite",
+        "price": 474
+      }
+    ],
+    "amenities": [
+      "Spa",
+      "Airport Shuttle",
+      "Bar",
+      "Restaurant",
+      "Gym"
+    ],
+    "rating": 4.7,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 41.1828,
+    "longitude": 41.8183
+  },
+  {
+    "id": 88,
+    "name": "Grand Aydın Hotel",
+    "location": "Aydın, Turkey",
+    "coordinates": {
+      "lat": 47.678608,
+      "lng": 23.366744
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 134
+      },
+      {
+        "type": "Deluxe",
+        "price": 163
+      },
+      {
+        "type": "Suite",
+        "price": 328
+      }
+    ],
+    "amenities": [
+      "Airport Shuttle",
+      "Spa",
+      "Restaurant",
+      "Pool",
+      "Breakfast"
+    ],
+    "rating": 4.8,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.845,
+    "longitude": 27.8396
+  },
+  {
+    "id": 89,
+    "name": "Grand Balıkesir Hotel",
+    "location": "Balıkesir, Turkey",
+    "coordinates": {
+      "lat": 62.282282,
+      "lng": -105.966045
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 111
+      },
+      {
+        "type": "Deluxe",
+        "price": 205
+      },
+      {
+        "type": "Suite",
+        "price": 311
+      }
+    ],
+    "amenities": [
+      "WiFi",
+      "Restaurant",
+      "Gym",
+      "Airport Shuttle",
+      "Breakfast"
+    ],
+    "rating": 4.8,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 39.6492,
+    "longitude": 27.8861
+  },
+  {
+    "id": 90,
+    "name": "Grand Bartın Hotel",
+    "location": "Bartın, Turkey",
+    "coordinates": {
+      "lat": -9.789289,
+      "lng": 120.206805
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 90
+      },
+      {
+        "type": "Deluxe",
+        "price": 216
+      },
+      {
+        "type": "Suite",
+        "price": 448
+      }
+    ],
+    "amenities": [
+      "Restaurant",
+      "Spa",
+      "Airport Shuttle",
+      "Breakfast",
+      "Parking"
+    ],
+    "rating": 3.4,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 41.6344,
+    "longitude": 32.3376
+  },
+  {
+    "id": 91,
+    "name": "Grand Batman Hotel",
+    "location": "Batman, Turkey",
+    "coordinates": {
+      "lat": -67.32289,
+      "lng": -63.446098
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 130
+      },
+      {
+        "type": "Deluxe",
+        "price": 166
+      },
+      {
+        "type": "Suite",
+        "price": 492
+      }
+    ],
+    "amenities": [
+      "Bar",
+      "Pet Friendly",
+      "Pool",
+      "Parking",
+      "Restaurant"
+    ],
+    "rating": 2.7,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.8812,
+    "longitude": 41.1351
+  },
+  {
+    "id": 92,
+    "name": "Grand Bayburt Hotel",
+    "location": "Bayburt, Turkey",
+    "coordinates": {
+      "lat": 34.869273,
+      "lng": -162.682257
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 106
+      },
+      {
+        "type": "Deluxe",
+        "price": 171
+      },
+      {
+        "type": "Suite",
+        "price": 429
+      }
+    ],
+    "amenities": [
+      "Breakfast",
+      "Spa",
+      "Pool",
+      "Parking",
+      "Bar"
+    ],
+    "rating": 4.9,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.256,
+    "longitude": 40.222
+  },
+  {
+    "id": 93,
+    "name": "Grand Bilecik Hotel",
+    "location": "Bilecik, Turkey",
+    "coordinates": {
+      "lat": -15.038666,
+      "lng": 162.121075
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 85
+      },
+      {
+        "type": "Deluxe",
+        "price": 247
+      },
+      {
+        "type": "Suite",
+        "price": 424
+      }
+    ],
+    "amenities": [
+      "Airport Shuttle",
+      "Restaurant",
+      "Pool",
+      "Breakfast",
+      "Spa"
+    ],
+    "rating": 4.1,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.15,
+    "longitude": 29.9833
+  },
+  {
+    "id": 94,
+    "name": "Grand Bingöl Hotel",
+    "location": "Bingöl, Turkey",
+    "coordinates": {
+      "lat": 78.947823,
+      "lng": 167.604463
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 99
+      },
+      {
+        "type": "Deluxe",
+        "price": 174
+      },
+      {
+        "type": "Suite",
+        "price": 451
+      }
+    ],
+    "amenities": [
+      "Gym",
+      "Spa",
+      "Pet Friendly",
+      "Parking",
+      "Breakfast"
+    ],
+    "rating": 2.7,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 38.8854,
+    "longitude": 40.4983
+  },
+  {
+    "id": 95,
+    "name": "Grand Bitlis Hotel",
+    "location": "Bitlis, Turkey",
+    "coordinates": {
+      "lat": -45.025528,
+      "lng": -94.289549
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 126
+      },
+      {
+        "type": "Deluxe",
+        "price": 180
+      },
+      {
+        "type": "Suite",
+        "price": 441
+      }
+    ],
+    "amenities": [
+      "Gym",
+      "Restaurant",
+      "Bar",
+      "Airport Shuttle",
+      "Pet Friendly"
+    ],
+    "rating": 3.4,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 38.4,
+    "longitude": 42.1167
+  },
+  {
+    "id": 96,
+    "name": "Grand Bolu Hotel",
+    "location": "Bolu, Turkey",
+    "coordinates": {
+      "lat": -83.418561,
+      "lng": 102.040537
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 122
+      },
+      {
+        "type": "Deluxe",
+        "price": 199
+      },
+      {
+        "type": "Suite",
+        "price": 392
+      }
+    ],
+    "amenities": [
+      "Restaurant",
+      "Airport Shuttle",
+      "Bar",
+      "Spa",
+      "Pool"
+    ],
+    "rating": 4.0,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.7395,
+    "longitude": 31.6116
+  },
+  {
+    "id": 97,
+    "name": "Grand Burdur Hotel",
+    "location": "Burdur, Turkey",
+    "coordinates": {
+      "lat": -70.180649,
+      "lng": 11.394593
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 90
+      },
+      {
+        "type": "Deluxe",
+        "price": 198
+      },
+      {
+        "type": "Suite",
+        "price": 357
+      }
+    ],
+    "amenities": [
+      "Parking",
+      "Bar",
+      "Pool",
+      "Spa",
+      "Breakfast"
+    ],
+    "rating": 4.2,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 37.7203,
+    "longitude": 30.2908
+  },
+  {
+    "id": 98,
+    "name": "Grand Bursa Hotel",
+    "location": "Bursa, Turkey",
+    "coordinates": {
+      "lat": 87.726808,
+      "lng": -149.552795
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 117
+      },
+      {
+        "type": "Deluxe",
+        "price": 229
+      },
+      {
+        "type": "Suite",
+        "price": 388
+      }
+    ],
+    "amenities": [
+      "Restaurant",
+      "Breakfast",
+      "Gym",
+      "Spa",
+      "WiFi"
+    ],
+    "rating": 3.5,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.195,
+    "longitude": 29.0601
+  },
+  {
+    "id": 99,
+    "name": "Grand Çanakkale Hotel",
+    "location": "Çanakkale, Turkey",
+    "coordinates": {
+      "lat": -54.90463,
+      "lng": 71.133124
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 133
+      },
+      {
+        "type": "Deluxe",
+        "price": 206
+      },
+      {
+        "type": "Suite",
+        "price": 398
+      }
+    ],
+    "amenities": [
+      "Airport Shuttle",
+      "Pet Friendly",
+      "Spa",
+      "WiFi",
+      "Bar"
+    ],
+    "rating": 2.5,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.1467,
+    "longitude": 26.4086
+  },
+  {
+    "id": 100,
+    "name": "Grand Çankırı Hotel",
+    "location": "Çankırı, Turkey",
+    "coordinates": {
+      "lat": 67.436354,
+      "lng": -158.710237
+    },
+    "room_types": [
+      {
+        "type": "Standard",
+        "price": 111
+      },
+      {
+        "type": "Deluxe",
+        "price": 224
+      },
+      {
+        "type": "Suite",
+        "price": 476
+      }
+    ],
+    "amenities": [
+      "Spa",
+      "Parking",
+      "Pet Friendly",
+      "WiFi",
+      "Breakfast"
+    ],
+    "rating": 3.2,
+    "thumbnail": "https://cdn2.setur.com.tr/image/hotel/large/rubi-platinum-spa-resort-suites-genel-f2d66902-c4b1-4e20-b58e-243283952c64.jpg",
+    "latitude": 40.6,
+    "longitude": 33.6167
   }
 ]
